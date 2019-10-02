@@ -2,7 +2,7 @@
 """
 Created on Wed Jun  8 11:41:14 2016
 
-@author: clepore
+@author: ericgrimson
 """
 
 cube = -28

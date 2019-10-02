@@ -2,7 +2,7 @@
 """
 Created on Wed Jun  8 11:23:28 2016
 
-@author: clepore
+@author: ericgrimson
 """
 
 x = 5

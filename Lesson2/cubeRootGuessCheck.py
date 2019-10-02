@@ -2,7 +2,7 @@
 """
 Created on Wed Jun  8 11:40:08 2016
 
-@author: clepore
+@author: ericgrimson
 """
 
 cube = 28

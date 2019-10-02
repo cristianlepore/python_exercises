@@ -5,7 +5,7 @@ Created on Wed Jun  8 12:01:04 2016
 @author: ericgrimson
 """
 
-x = 23
+x = 25
 epsilon = 0.01
 numGuesses = 0
 low = 0.0

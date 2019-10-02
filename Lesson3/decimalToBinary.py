@@ -5,7 +5,7 @@ Created on Wed Jun  8 12:09:59 2016
 @author: ericgrimson
 """
 
-num = 11
+num = 19
 
 if num < 0:
     isNeg = True
@@ -20,5 +20,3 @@ while num > 0:
     num = num//2
 if isNeg:
     result = '-' + result
-
-print(result)

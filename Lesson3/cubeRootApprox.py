@@ -5,7 +5,7 @@ Created on Wed Jun  8 11:55:33 2016
 @author: ericgrimson
 """
 
-cube = 29
+cube = 27
 epsilon = 0.01
 guess = 0.0
 increment = 0.01

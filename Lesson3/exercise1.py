@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 @author: cristianlepore
 """
@@ -18,8 +17,10 @@ while ans != 'c':
 
     if ans != 'l' and ans != 'h' and ans != 'c':
         print("Sorry, I did not understand your input.")
-
-    if ans == 'l':
+    elif ans == 'l':
         low = x
     elif ans == 'h':
         high = x
+
+print("I guess the number is:", end=' ')
+print(x)

@@ -6,17 +6,22 @@ Created on Wed Jun  8 12:09:59 2016
 """
 
 num = 19
+startingNum = num
 
 if num < 0:
     isNeg = True
     num = abs(num)
 else:
     isNeg = False
+
 result = ''
 if num == 0:
     result = '0'
 while num > 0:
-    result = str(num%2) + result
-    num = num//2
+    result = str(num % 2) + result
+    num = num // 2
 if isNeg:
     result = '-' + result
+
+print("The binary representation of", end=' ')
+print(startingNum, "is: ", result)

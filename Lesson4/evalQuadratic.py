@@ -1,7 +1,11 @@
+'''
+@author: cristianlepore
+'''
+
 def evalQuadratic(a, b, c, x):
     '''
-    This function takes in four numbers and returns a single number.
-
+    input: four numbers
+    output: return a polynomial expression
     '''
     return a*x**2 + b*x + c
 

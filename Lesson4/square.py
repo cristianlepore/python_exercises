@@ -1,6 +1,11 @@
+'''
+@author: cristianlepore
+'''
+
 def square(x):
     '''
-    This function takes in one number and returns one number.
+    input: a number
+    output: a number. The square of the input
     '''
     return x**2
 

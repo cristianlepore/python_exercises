@@ -6,7 +6,7 @@ def polySum(n, s):
     input: two arguments n and s
     output: one number with rounded to four decimal places that sums the area and the square of the perimeter of the regular polygon.
     '''
-    # Start your code here
+
     def area(n, s):
         '''
         input: two arguments n and s

@@ -1,6 +1,6 @@
 # Import the required files
-from moduleGrader import math
-from moduleGrader import *
+from module import math
+from module import *
 
 # Number of sides of the regular polygon
 n = 5

@@ -12,3 +12,6 @@ def fib(x):
         return 1
     else:
         return fib(x-1) + fib(x-2)
+
+x = 5
+print(fib(x))

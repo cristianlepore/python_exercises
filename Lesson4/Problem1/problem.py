@@ -1,11 +1,11 @@
-from moduleProblem1 import *
+from module import *
 
 # The outstanding balance on the credit card
-balance = 3329
+balance = 484
 # AnnualInterestRate
 annualInterestRate = 0.2
 # Minimum monthly payment rate as a decimal
-monthlyPaymentRate = 0.00
+monthlyPaymentRate = 0.04
 # Number of months in a year
 monthsInAYear = 12
 

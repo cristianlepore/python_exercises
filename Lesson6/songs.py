@@ -91,4 +91,9 @@ def words_often(freqs, minTimes):
             done = True
     return result
     
-print(words_often(beatles, 30))
+print(words_often(beatles, 5))
+
+            
+    
+
+    

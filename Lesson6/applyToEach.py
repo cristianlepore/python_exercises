@@ -16,3 +16,4 @@ def applyToEach(L, f):
 def applyFuns(L, x):
     for f in L:
          print(f(x))
+

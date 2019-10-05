@@ -1,4 +1,6 @@
-visits = {"Los Angeles":2016, "San Diego":2016, "San Francisco":2016, "Toronto":2018}
+'''
+@author: cristianlepore
+'''
 
 def year(city):
     '''
@@ -6,6 +8,8 @@ def year(city):
     output: A year. The corresponding value for that key.
     '''
     return visits[city]
+
+visits = {"Los Angeles":2016, "San Diego":2016, "San Francisco":2016, "Toronto":2018}
 
 # Loop among the places
 for city in visits:

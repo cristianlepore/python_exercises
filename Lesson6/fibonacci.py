@@ -24,7 +24,7 @@ def fib_efficient(n, d):
         
 d = {1:1, 2:2}
 
-argToUse = 34
+argToUse = 30
 print("")
 print('using fib')
 print(fib(argToUse))

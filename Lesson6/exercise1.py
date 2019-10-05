@@ -1,3 +1,7 @@
+'''
+@authro: cristianlepore
+'''
+
 def countChars(mySentence):
     '''
     input: a string
@@ -14,13 +18,12 @@ def countChars(mySentence):
     # Assignment
     vowels = 0
     notVowels = 0
-    vowelsList = ['a', 'e', 'i', 'o', 'u']
     # Convert string to lower case
     mySentence = toLower(mySentence)
 
     # For loop
     for i in mySentence:
-        if i in vowelsList:
+        if i in 'aeiou':
             vowels += 1
         else:
             notVowels += 1

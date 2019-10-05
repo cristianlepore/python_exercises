@@ -92,8 +92,3 @@ def words_often(freqs, minTimes):
     return result
     
 print(words_often(beatles, 5))
-
-            
-    
-
-    

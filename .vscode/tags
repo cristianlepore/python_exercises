@@ -1,0 +1,1178 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	../Lesson8/exercise1.py	/^    A = 2$/;"	kind:variable	line:24
+A	../Lesson9/exercise12.py	/^class A(object):$/;"	kind:class	line:5
+Accio	../Lesson9/exercise11.py	/^class Accio(Spell):$/;"	kind:class	line:20
+Animal	../Lesson9/animal.py	/^class Animal(object):$/;"	kind:class	line:8
+Animal	../Lesson9/animalTagged.py	/^class Animal(object):$/;"	kind:class	line:8
+Animal	../Lesson9/exampleClasses.py	/^class Animal(object):$/;"	kind:class	line:8
+Animal	../Lesson9/exercise10.py	/^class Animal(object):$/;"	kind:class	line:5
+Animal	../Lesson9/exercise9.py	/^class Animal(object):$/;"	kind:class	line:5
+B	../Lesson9/exercise12.py	/^class B(A):$/;"	kind:class	line:15
+C	../Lesson9/exercise12.py	/^class C(object):$/;"	kind:class	line:25
+CONSONANTS	../Lesson8/Problem1/ps4a.py	/^CONSONANTS = 'bcdfghjklmnpqrstvwxyz'$/;"	kind:variable	line:7
+CONSONANTS	../Lesson8/Problem2/ps4a.py	/^CONSONANTS = 'bcdfghjklmnpqrstvwxyz'$/;"	kind:variable	line:7
+CONSONANTS	../Lesson8/Problem3/ps4a.py	/^CONSONANTS = 'bcdfghjklmnpqrstvwxyz'$/;"	kind:variable	line:7
+CONSONANTS	../Lesson8/Problem4/ps4a.py	/^CONSONANTS = 'bcdfghjklmnpqrstvwxyz'$/;"	kind:variable	line:7
+CONSONANTS	../Lesson8/Problem5/ps4a.py	/^CONSONANTS = 'bcdfghjklmnpqrstvwxyz'$/;"	kind:variable	line:7
+CONSONANTS	../Lesson8/Problem6/ps4a.py	/^CONSONANTS = 'bcdfghjklmnpqrstvwxyz'$/;"	kind:variable	line:7
+CONSONANTS	../Lesson8/Problem7/ps4a.py	/^CONSONANTS = 'bcdfghjklmnpqrstvwxyz'$/;"	kind:variable	line:7
+Cat	../Lesson9/animal.py	/^class Cat(Animal):$/;"	kind:class	line:23
+Cat	../Lesson9/animalTagged.py	/^class Cat(Animal):$/;"	kind:class	line:23
+Cat	../Lesson9/exampleClasses.py	/^class Cat(Animal):$/;"	kind:class	line:23
+Cat	../Lesson9/exercise10.py	/^class Cat(Animal):$/;"	kind:class	line:20
+Clock	../Lesson9/exercise3.py	/^class Clock(object):$/;"	kind:class	line:5
+Clock	../Lesson9/exercise4.py	/^class Clock(object):$/;"	kind:class	line:5
+Clock	../Lesson9/exercise5.py	/^class Clock(object):$/;"	kind:class	line:5
+Confundo	../Lesson9/exercise11.py	/^class Confundo(Spell):$/;"	kind:class	line:26
+Coordinate	../Lesson9/coordinate.py	/^class Coordinate(object):$/;"	kind:class	line:8
+Coordinate	../Lesson9/exercise7.py	/^class Coordinate(object):$/;"	kind:class	line:5
+D	../Lesson9/exercise12.py	/^class D(C, B):$/;"	kind:class	line:34
+Fixed	../Lesson10/mortgageVariants.py	/^class Fixed(Mortgage):$/;"	kind:class	line:10
+FixedWithPts	../Lesson10/mortgageVariants.py	/^class FixedWithPts(Mortgage):$/;"	kind:class	line:15
+Grad	../Lesson10/Student.py	/^class Grad(Student):$/;"	kind:class	line:19
+Grad	../Lesson10/UG.py	/^class Grad(MITPerson):$/;"	kind:class	line:16
+Grad	../Lesson10/UGTrial1.py	/^class Grad(MITPerson):$/;"	kind:class	line:19
+Grad	../Lesson10/UGTrial2.py	/^class Grad(Student):$/;"	kind:class	line:22
+Grad	../Lesson10/UGTrial2Modified.py	/^class Grad(Student):$/;"	kind:class	line:22
+Grad	../Lesson10/UG_v1.py	/^class Grad(MITPerson):$/;"	kind:class	line:16
+Grad	../Lesson10/exercise3.py	/^class Grad(MITPerson):$/;"	kind:class	line:19
+Grades	../Lesson10/Grades.py	/^class Grades(object):$/;"	kind:class	line:8
+Grades.py	../Lesson10/Grades.py	1;"	kind:file	line:1
+HAND_SIZE	../Lesson8/Problem1/ps4a.py	/^HAND_SIZE = 7$/;"	kind:variable	line:8
+HAND_SIZE	../Lesson8/Problem2/ps4a.py	/^HAND_SIZE = 7$/;"	kind:variable	line:8
+HAND_SIZE	../Lesson8/Problem3/ps4a.py	/^HAND_SIZE = 7$/;"	kind:variable	line:8
+HAND_SIZE	../Lesson8/Problem4/ps4a.py	/^HAND_SIZE = 7$/;"	kind:variable	line:8
+HAND_SIZE	../Lesson8/Problem5/ps4a.py	/^HAND_SIZE = 7$/;"	kind:variable	line:8
+HAND_SIZE	../Lesson8/Problem6/ps4a.py	/^HAND_SIZE = 7$/;"	kind:variable	line:8
+HAND_SIZE	../Lesson8/Problem7/ps4a.py	/^HAND_SIZE = 7$/;"	kind:variable	line:8
+Hanoi.py	../Lesson4/Hanoi.py	1;"	kind:file	line:1
+L	../Lesson5/exercise4.py	/^L = [2, 1, 3]$/;"	kind:variable	line:5
+L	../Lesson5/exercise4.py	/^L = [4, 2, 9]$/;"	kind:variable	line:19
+L	../Lesson5/exercise4.py	/^L = list(s)$/;"	kind:variable	line:16
+MITPerson	../Lesson10/MITPerson.py	/^class MITPerson(Person):$/;"	kind:class	line:8
+MITPerson	../Lesson10/MITPersonModifiedTrial.py	/^class MITPerson(Person):$/;"	kind:class	line:8
+MITPerson	../Lesson10/MITPersonTrial.py	/^class MITPerson(Person):$/;"	kind:class	line:8
+MITPerson	../Lesson10/exercise2.py	/^class MITPerson(Person):$/;"	kind:class	line:7
+MITPerson	../Lesson10/exercise3.py	/^from exercise2 import MITPerson$/;"	kind:namespace	line:5
+MITPerson	../Lesson10/main.py	/^from exercise2 import MITPerson$/;"	kind:namespace	line:6
+MITPerson.py	../Lesson10/MITPerson.py	1;"	kind:file	line:1
+MITPersonList	../Lesson10/MITPersonTrial.py	/^MITPersonList = [m1, m2, m3]$/;"	kind:variable	line:39
+MITPersonModifiedTrial.py	../Lesson10/MITPersonModifiedTrial.py	1;"	kind:file	line:1
+MITPersonTrial.py	../Lesson10/MITPersonTrial.py	1;"	kind:file	line:1
+Mortgage	../Lesson10/mortgage.py	/^class Mortgage(object):$/;"	kind:class	line:15
+NewtonRaphson.py	../Lesson3/NewtonRaphson.py	1;"	kind:file	line:1
+Person	../Lesson10/PersonTrial.py	/^class Person(object):$/;"	kind:class	line:10
+Person	../Lesson10/TrialCode.py	/^class Person(object):$/;"	kind:class	line:10
+Person	../Lesson10/exercise1.py	/^class Person(object):$/;"	kind:class	line:7
+Person	../Lesson10/exercise2.py	/^from exercise1 import Person$/;"	kind:namespace	line:5
+Person	../Lesson10/main.py	/^from exercise1 import Person$/;"	kind:namespace	line:5
+Person	../Lesson9/animal.py	/^class Person(Animal):$/;"	kind:class	line:35
+Person	../Lesson9/exampleClasses.py	/^class Person(Animal):$/;"	kind:class	line:29
+Person	../Lesson9/exercise1.py	/^class Person(object):$/;"	kind:class	line:5
+Person	../Lesson9/exercise10.py	/^class Person(Animal):$/;"	kind:class	line:32
+Person	../Lesson9/exercise2.py	/^class Person(object):$/;"	kind:class	line:5
+PersonTrial.py	../Lesson10/PersonTrial.py	1;"	kind:file	line:1
+Professor	../Lesson10/ProfessorTrial.py	/^class Professor(MITPerson):$/;"	kind:class	line:8
+ProfessorTrial.py	../Lesson10/ProfessorTrial.py	1;"	kind:file	line:1
+Rabbit	../Lesson9/animal.py	/^class Rabbit(Animal):$/;"	kind:class	line:29
+Rabbit	../Lesson9/animalTagged.py	/^class Rabbit(Animal):$/;"	kind:class	line:30
+Rabbit	../Lesson9/exampleClasses.py	/^class Rabbit(Animal):$/;"	kind:class	line:72
+Rabbit	../Lesson9/exercise10.py	/^class Rabbit(Animal):$/;"	kind:class	line:26
+SCRABBLE_LETTER_VALUES	../Lesson8/Problem1/ps4a.py	/^SCRABBLE_LETTER_VALUES = {$/;"	kind:variable	line:10
+SCRABBLE_LETTER_VALUES	../Lesson8/Problem2/ps4a.py	/^SCRABBLE_LETTER_VALUES = {$/;"	kind:variable	line:10
+SCRABBLE_LETTER_VALUES	../Lesson8/Problem3/ps4a.py	/^SCRABBLE_LETTER_VALUES = {$/;"	kind:variable	line:10
+SCRABBLE_LETTER_VALUES	../Lesson8/Problem4/ps4a.py	/^SCRABBLE_LETTER_VALUES = {$/;"	kind:variable	line:10
+SCRABBLE_LETTER_VALUES	../Lesson8/Problem5/ps4a.py	/^SCRABBLE_LETTER_VALUES = {$/;"	kind:variable	line:10
+SCRABBLE_LETTER_VALUES	../Lesson8/Problem6/ps4a.py	/^SCRABBLE_LETTER_VALUES = {$/;"	kind:variable	line:10
+SCRABBLE_LETTER_VALUES	../Lesson8/Problem7/ps4a.py	/^SCRABBLE_LETTER_VALUES = {$/;"	kind:variable	line:10
+Spell	../Lesson9/exercise11.py	/^class Spell(object):$/;"	kind:class	line:5
+Student	../Lesson10/Student.py	/^class Student(MITPerson):$/;"	kind:class	line:8
+Student	../Lesson10/UGTrial2.py	/^class Student(MITPerson):$/;"	kind:class	line:8
+Student	../Lesson10/UGTrial2Modified.py	/^class Student(MITPerson):$/;"	kind:class	line:8
+Student	../Lesson9/animal.py	/^class Student(Person):$/;"	kind:class	line:60
+Student	../Lesson9/exampleClasses.py	/^class Student(Person):$/;"	kind:class	line:53
+Student	../Lesson9/exercise10.py	/^class Student(Person):$/;"	kind:class	line:59
+Student.py	../Lesson10/Student.py	1;"	kind:file	line:1
+Towers	../Lesson4/Hanoi.py	/^def Towers(n, fr, to, spare):$/;"	kind:function	line:11
+TransferStudent	../Lesson10/Student.py	/^class TransferStudent(Student):$/;"	kind:class	line:22
+TransferStudent	../Lesson10/UGTrial2.py	/^class TransferStudent(Student):$/;"	kind:class	line:25
+TransferStudent	../Lesson10/UGTrial2Modified.py	/^class TransferStudent(Student):$/;"	kind:class	line:25
+TransferStudent	../Lesson10/UG_v1.py	/^class TransferStudent(MITPerson):$/;"	kind:class	line:19
+TrialCode.py	../Lesson10/TrialCode.py	1;"	kind:file	line:1
+TwoRate	../Lesson10/mortgageVariants.py	/^class TwoRate(Mortgage):$/;"	kind:class	line:23
+UG	../Lesson10/Student.py	/^class UG(Student):$/;"	kind:class	line:11
+UG	../Lesson10/UG.py	/^class UG(MITPerson):$/;"	kind:class	line:8
+UG	../Lesson10/UGTrial1.py	/^class UG(MITPerson):$/;"	kind:class	line:8
+UG	../Lesson10/UGTrial2.py	/^class UG(Student):$/;"	kind:class	line:11
+UG	../Lesson10/UGTrial2Modified.py	/^class UG(Student):$/;"	kind:class	line:11
+UG	../Lesson10/UG_v1.py	/^class UG(MITPerson):$/;"	kind:class	line:8
+UG	../Lesson10/exercise3.py	/^class UG(MITPerson):$/;"	kind:class	line:7
+UG	../Lesson10/main.py	/^from exercise3 import UG$/;"	kind:namespace	line:7
+UG.py	../Lesson10/UG.py	1;"	kind:file	line:1
+UGTrial1.py	../Lesson10/UGTrial1.py	1;"	kind:file	line:1
+UGTrial2.py	../Lesson10/UGTrial2.py	1;"	kind:file	line:1
+UGTrial2Modified.py	../Lesson10/UGTrial2Modified.py	1;"	kind:file	line:1
+UG_v1.py	../Lesson10/UG_v1.py	1;"	kind:file	line:1
+UK	../Lesson5/universities.py	/^UK = ['Cambridge', 'Oxford']$/;"	kind:variable	line:9
+US	../Lesson5/universities.py	/^US = ['MIT', 'Harvard', 'Yale']$/;"	kind:variable	line:8
+Unis	../Lesson5/universities.py	/^Unis = [US, UK]$/;"	kind:variable	line:11
+Unisnew	../Lesson5/universities.py	/^Unisnew = [['MIT', 'Harvard', 'Yale'], ['US', 'UK']]$/;"	kind:variable	line:12
+VOWELS	../Lesson8/Problem1/ps4a.py	/^VOWELS = 'aeiou'$/;"	kind:variable	line:6
+VOWELS	../Lesson8/Problem2/ps4a.py	/^VOWELS = 'aeiou'$/;"	kind:variable	line:6
+VOWELS	../Lesson8/Problem3/ps4a.py	/^VOWELS = 'aeiou'$/;"	kind:variable	line:6
+VOWELS	../Lesson8/Problem4/ps4a.py	/^VOWELS = 'aeiou'$/;"	kind:variable	line:6
+VOWELS	../Lesson8/Problem5/ps4a.py	/^VOWELS = 'aeiou'$/;"	kind:variable	line:6
+VOWELS	../Lesson8/Problem6/ps4a.py	/^VOWELS = 'aeiou'$/;"	kind:variable	line:6
+VOWELS	../Lesson8/Problem7/ps4a.py	/^VOWELS = 'aeiou'$/;"	kind:variable	line:6
+WORDLIST_FILENAME	../Lesson6/Problem1/ps3_hangman.py	/^WORDLIST_FILENAME = "\/var\/www\/html\/exercises\/Lesson6\/Problem1\/words.txt"$/;"	kind:variable	line:12
+WORDLIST_FILENAME	../Lesson6/Problem2/ps3_hangman.py	/^WORDLIST_FILENAME = "\/var\/www\/html\/exercises\/Lesson6\/Problem1\/words.txt"$/;"	kind:variable	line:12
+WORDLIST_FILENAME	../Lesson6/Problem3/ps3_hangman.py	/^WORDLIST_FILENAME = "\/var\/www\/html\/exercises\/Lesson6\/Problem1\/words.txt"$/;"	kind:variable	line:13
+WORDLIST_FILENAME	../Lesson6/Problem4/ps3_hangman.py	/^WORDLIST_FILENAME = "\/var\/www\/html\/exercises\/Lesson6\/Problem1\/words.txt"$/;"	kind:variable	line:13
+WORDLIST_FILENAME	../Lesson8/Problem1/ps4a.py	/^WORDLIST_FILENAME = "\/var\/www\/html\/exercises\/Lesson8\/Problem1\/words.txt"$/;"	kind:variable	line:18
+WORDLIST_FILENAME	../Lesson8/Problem2/ps4a.py	/^WORDLIST_FILENAME = "\/var\/www\/html\/exercises\/Lesson8\/Problem1\/words.txt"$/;"	kind:variable	line:18
+WORDLIST_FILENAME	../Lesson8/Problem3/ps4a.py	/^WORDLIST_FILENAME = "\/var\/www\/html\/exercises\/Lesson8\/Problem1\/words.txt"$/;"	kind:variable	line:18
+WORDLIST_FILENAME	../Lesson8/Problem4/ps4a.py	/^WORDLIST_FILENAME = "\/var\/www\/html\/exercises\/Lesson8\/Problem1\/words.txt"$/;"	kind:variable	line:18
+WORDLIST_FILENAME	../Lesson8/Problem5/ps4a.py	/^WORDLIST_FILENAME = "\/var\/www\/html\/exercises\/Lesson8\/Problem1\/words.txt"$/;"	kind:variable	line:18
+WORDLIST_FILENAME	../Lesson8/Problem6/ps4a.py	/^WORDLIST_FILENAME = "\/var\/www\/html\/exercises\/Lesson8\/Problem1\/words.txt"$/;"	kind:variable	line:14
+WORDLIST_FILENAME	../Lesson8/Problem7/ps4a.py	/^WORDLIST_FILENAME = "\/var\/www\/html\/exercises\/Lesson8\/Problem1\/words.txt"$/;"	kind:variable	line:14
+Weird	../Lesson9/exercise6.py	/^class Weird(object):$/;"	kind:class	line:5
+Wild	../Lesson9/exercise6.py	/^class Wild(object):$/;"	kind:class	line:14
+X	../Lesson9/exercise6.py	/^X = 7$/;"	kind:variable	line:23
+Y	../Lesson9/exercise6.py	/^Y = 8$/;"	kind:variable	line:24
+__Str__	../Lesson9/exercise10.py	/^    def __Str__(self):$/;"	kind:member	line:65
+__add__	../Lesson9/animalTagged.py	/^    def __add__(self, other):$/;"	kind:member	line:44
+__add__	../Lesson9/fraction.py	/^    def __add__(self, other):$/;"	kind:member	line:18
+__eq__	../Lesson9/animalTagged.py	/^    def __eq__(self, other):$/;"	kind:member	line:47
+__eq__	../Lesson9/exercise7.py	/^    def __eq__(self, other):$/;"	kind:member	line:23
+__init__	../Lesson10/Grades.py	/^    def __init__(self):$/;"	kind:member	line:10
+__init__	../Lesson10/MITPerson.py	/^    def __init__(self, name):$/;"	kind:member	line:11
+__init__	../Lesson10/MITPersonModifiedTrial.py	/^    def __init__(self, name):$/;"	kind:member	line:11
+__init__	../Lesson10/MITPersonTrial.py	/^    def __init__(self, name):$/;"	kind:member	line:11
+__init__	../Lesson10/PersonTrial.py	/^    def __init__(self, name):$/;"	kind:member	line:11
+__init__	../Lesson10/ProfessorTrial.py	/^    def __init__(self, name, department):$/;"	kind:member	line:9
+__init__	../Lesson10/Student.py	/^    def __init__(self, name, classYear):$/;"	kind:member	line:12
+__init__	../Lesson10/TrialCode.py	/^    def __init__(self, name):$/;"	kind:member	line:11
+__init__	../Lesson10/UG.py	/^    def __init__(self, name, classYear):$/;"	kind:member	line:9
+__init__	../Lesson10/UGTrial1.py	/^    def __init__(self, name, classYear):$/;"	kind:member	line:9
+__init__	../Lesson10/UGTrial2.py	/^    def __init__(self, name, classYear):$/;"	kind:member	line:12
+__init__	../Lesson10/UGTrial2Modified.py	/^    def __init__(self, name, classYear):$/;"	kind:member	line:12
+__init__	../Lesson10/UG_v1.py	/^    def __init__(self, name, classYear):$/;"	kind:member	line:9
+__init__	../Lesson10/exercise1.py	/^    def __init__(self, name):$/;"	kind:member	line:9
+__init__	../Lesson10/exercise2.py	/^    def __init__(self, name):$/;"	kind:member	line:10
+__init__	../Lesson10/exercise3.py	/^    def __init__(self, name, classYear = None):$/;"	kind:member	line:9
+__init__	../Lesson10/mortgage.py	/^    def __init__(self, loan, annRate, months):$/;"	kind:member	line:17
+__init__	../Lesson10/mortgageVariants.py	/^    def __init__(self, loan, r, months):$/;"	kind:member	line:11
+__init__	../Lesson10/mortgageVariants.py	/^    def __init__(self, loan, r, months, pts):$/;"	kind:member	line:16
+__init__	../Lesson10/mortgageVariants.py	/^    def __init__(self, loan, r, months, teaserRate, teaserMonths):$/;"	kind:member	line:24
+__init__	../Lesson9/animal.py	/^    def __init__(self, age):$/;"	kind:member	line:9
+__init__	../Lesson9/animal.py	/^    def __init__(self, name, age):$/;"	kind:member	line:36
+__init__	../Lesson9/animal.py	/^    def __init__(self, name, age, major=None):$/;"	kind:member	line:61
+__init__	../Lesson9/animalTagged.py	/^    def __init__(self, age):$/;"	kind:member	line:9
+__init__	../Lesson9/animalTagged.py	/^    def __init__(self, age, parent1=None, parent2=None):$/;"	kind:member	line:32
+__init__	../Lesson9/coordinate.py	/^    def __init__(self, x, y):$/;"	kind:member	line:9
+__init__	../Lesson9/exampleClasses.py	/^    def __init__(self, age):$/;"	kind:member	line:9
+__init__	../Lesson9/exampleClasses.py	/^    def __init__(self, age, parent1=None, parent2=None):$/;"	kind:member	line:74
+__init__	../Lesson9/exampleClasses.py	/^    def __init__(self, name, age):$/;"	kind:member	line:30
+__init__	../Lesson9/exampleClasses.py	/^    def __init__(self, name, age, major=None):$/;"	kind:member	line:54
+__init__	../Lesson9/exercise1.py	/^    def __init__(self, x, y):$/;"	kind:member	line:6
+__init__	../Lesson9/exercise10.py	/^    def __init__(self, age):$/;"	kind:member	line:6
+__init__	../Lesson9/exercise10.py	/^    def __init__(self, name, age):$/;"	kind:member	line:33
+__init__	../Lesson9/exercise10.py	/^    def __init__(self, name, age, major = None):$/;"	kind:member	line:60
+__init__	../Lesson9/exercise11.py	/^    def __init__(self):$/;"	kind:member	line:21
+__init__	../Lesson9/exercise11.py	/^    def __init__(self):$/;"	kind:member	line:27
+__init__	../Lesson9/exercise11.py	/^    def __init__(self, incantation, name):$/;"	kind:member	line:6
+__init__	../Lesson9/exercise12.py	/^    def __init__(self):$/;"	kind:member	line:16
+__init__	../Lesson9/exercise12.py	/^    def __init__(self):$/;"	kind:member	line:26
+__init__	../Lesson9/exercise12.py	/^    def __init__(self):$/;"	kind:member	line:35
+__init__	../Lesson9/exercise12.py	/^    def __init__(self):$/;"	kind:member	line:6
+__init__	../Lesson9/exercise2.py	/^    def __init__(self, x, y):$/;"	kind:member	line:7
+__init__	../Lesson9/exercise3.py	/^    def __init__(self, time):$/;"	kind:member	line:7
+__init__	../Lesson9/exercise4.py	/^    def __init__(self, time):$/;"	kind:member	line:6
+__init__	../Lesson9/exercise5.py	/^    def __init__(self, time):$/;"	kind:member	line:7
+__init__	../Lesson9/exercise6.py	/^    def __init__(self, x, y): $/;"	kind:member	line:15
+__init__	../Lesson9/exercise6.py	/^    def __init__(self, x, y): $/;"	kind:member	line:6
+__init__	../Lesson9/exercise7.py	/^    def __init__(self, x, y):$/;"	kind:member	line:7
+__init__	../Lesson9/exercise8.py	/^    def __init__(self):$/;"	kind:member	line:10
+__init__	../Lesson9/exercise9.py	/^    def __init__(self, age, name = None):$/;"	kind:member	line:6
+__init__	../Lesson9/fraction.py	/^    def __init__(self, numer, denom):$/;"	kind:member	line:9
+__init__	../Lesson9/integer_set.py	/^    def __init__(self):$/;"	kind:member	line:6
+__init__	../Lesson9/integer_set_nodoc.py	/^    def __init__(self):$/;"	kind:member	line:2
+__len__	../Lesson9/exercise8.py	/^    def __len__(self):$/;"	kind:member	line:46
+__lt__	../Lesson10/MITPerson.py	/^    def __lt__(self, other):$/;"	kind:member	line:21
+__lt__	../Lesson10/MITPersonModifiedTrial.py	/^    def __lt__(self, other):$/;"	kind:member	line:21
+__lt__	../Lesson10/MITPersonTrial.py	/^    def __lt__(self, other):$/;"	kind:member	line:21
+__lt__	../Lesson10/PersonTrial.py	/^    def __lt__(self, other):$/;"	kind:member	line:32
+__lt__	../Lesson10/TrialCode.py	/^    def __lt__(self, other):$/;"	kind:member	line:32
+__lt__	../Lesson10/exercise1.py	/^    def __lt__(self, other):$/;"	kind:member	line:30
+__lt__	../Lesson10/exercise2.py	/^    def __lt__(self, other):$/;"	kind:member	line:18
+__repr__	../Lesson9/exercise7.py	/^    def __repr__(self):$/;"	kind:member	line:27
+__str__	../Lesson10/PersonTrial.py	/^    def __str__(self):$/;"	kind:member	line:43
+__str__	../Lesson10/TrialCode.py	/^    def __str__(self):$/;"	kind:member	line:43
+__str__	../Lesson10/exercise1.py	/^    def __str__(self):$/;"	kind:member	line:17
+__str__	../Lesson10/mortgage.py	/^    def __str__(self):$/;"	kind:member	line:39
+__str__	../Lesson9/animal.py	/^    def __str__(self):$/;"	kind:member	line:20
+__str__	../Lesson9/animal.py	/^    def __str__(self):$/;"	kind:member	line:26
+__str__	../Lesson9/animal.py	/^    def __str__(self):$/;"	kind:member	line:32
+__str__	../Lesson9/animal.py	/^    def __str__(self):$/;"	kind:member	line:54
+__str__	../Lesson9/animal.py	/^    def __str__(self):$/;"	kind:member	line:76
+__str__	../Lesson9/animalTagged.py	/^    def __str__(self):$/;"	kind:member	line:20
+__str__	../Lesson9/animalTagged.py	/^    def __str__(self):$/;"	kind:member	line:26
+__str__	../Lesson9/coordinate.py	/^    def __str__(self):$/;"	kind:member	line:16
+__str__	../Lesson9/exampleClasses.py	/^        def __str__(self):$/;"	kind:member	line:26
+__str__	../Lesson9/exampleClasses.py	/^    def __str__(self): $/;"	kind:member	line:69
+__str__	../Lesson9/exampleClasses.py	/^    def __str__(self):$/;"	kind:member	line:20
+__str__	../Lesson9/exampleClasses.py	/^    def __str__(self):$/;"	kind:member	line:48
+__str__	../Lesson9/exercise10.py	/^    def __str__(self):$/;"	kind:member	line:17
+__str__	../Lesson9/exercise10.py	/^    def __str__(self):$/;"	kind:member	line:23
+__str__	../Lesson9/exercise10.py	/^    def __str__(self):$/;"	kind:member	line:29
+__str__	../Lesson9/exercise10.py	/^    def __str__(self):$/;"	kind:member	line:56
+__str__	../Lesson9/exercise11.py	/^    def __str__(self):$/;"	kind:member	line:10
+__str__	../Lesson9/exercise2.py	/^    def __str__(self):$/;"	kind:member	line:19
+__str__	../Lesson9/exercise7.py	/^    def __str__(self):$/;"	kind:member	line:20
+__str__	../Lesson9/exercise8.py	/^    def __str__(self):$/;"	kind:member	line:32
+__str__	../Lesson9/exercise9.py	/^    def __str__(self):$/;"	kind:member	line:17
+__str__	../Lesson9/fraction.py	/^    def __str__(self):$/;"	kind:member	line:12
+__str__	../Lesson9/integer_set.py	/^    def __str__(self):$/;"	kind:member	line:28
+__str__	../Lesson9/integer_set_nodoc.py	/^    def __str__(self):$/;"	kind:member	line:14
+__sub__	../Lesson9/coordinate.py	/^    def __sub__(self, other):$/;"	kind:member	line:18
+__sub__	../Lesson9/fraction.py	/^    def __sub__(self, other):$/;"	kind:member	line:23
+a	../Lesson4/evalQuadratic.py	/^a = 2$/;"	kind:variable	line:12
+a	../Lesson4/exercise3.py	/^a = 10$/;"	kind:variable	line:11
+a	../Lesson4/exercise9.py	/^a = 'u'$/;"	kind:variable	line:25
+a	../Lesson8/exercise1.py	/^    a = int(input("Tell me one number: "))$/;"	kind:variable	line:6
+aStr	../Lesson4/exercise1.py	/^aStr = "abdghilmnrstvz"$/;"	kind:variable	line:32
+aStr	../Lesson4/exercise9.py	/^aStr = 'abcefilnprstvz'$/;"	kind:variable	line:26
+aTup	../Lesson5/exercise3.py	/^aTup = ('I', 'am', 'a', 'test', 'tuple')$/;"	kind:variable	line:13
+aTup	../Lesson5/exerciseTuple.py	/^aTup = ('I', 'am', 'a', 'test', 'tuple')$/;"	kind:variable	line:19
+add	../Lesson5/exercise5.py	/^def add(a):$/;"	kind:function	line:21
+addGrade	../Lesson10/Grades.py	/^    def addGrade(self, student, grade):$/;"	kind:member	line:25
+addIt	../Lesson8/readingData.py	/^            addIt = new[:-1].split(',') #remove trailing \\n$/;"	kind:variable	line:20
+addIt	../Lesson8/readingDataRev1.py	/^            addIt = new[:-1].split(',') #remove trailing \\n$/;"	kind:variable	line:20
+addIt	../Lesson8/readingDataRev2.py	/^            addIt = new[:-1].split(',') #remove trailing \\n$/;"	kind:variable	line:20
+addStudent	../Lesson10/Grades.py	/^    def addStudent(self, student):$/;"	kind:member	line:16
+add_friend	../Lesson9/animal.py	/^    def add_friend(self, fname):$/;"	kind:member	line:42
+add_friend	../Lesson9/exampleClasses.py	/^    def add_friend(self, fname):$/;"	kind:member	line:36
+add_frineds	../Lesson9/exercise10.py	/^    def add_frineds(self, fName):$/;"	kind:member	line:39
+age_diff	../Lesson9/animal.py	/^    def age_diff(self, other):$/;"	kind:member	line:47
+age_diff	../Lesson9/exampleClasses.py	/^    def age_diff(self, other):$/;"	kind:member	line:41
+age_difference	../Lesson9/exercise10.py	/^    def age_difference(self, other):$/;"	kind:member	line:44
+alberto	../Lesson10/main.py	/^alberto = MITPerson('Alberto Angela')$/;"	kind:variable	line:12
+alex	../Lesson10/main.py	/^alex = UG('alex Righetti', 2017)$/;"	kind:variable	line:9
+allList	../Lesson10/Student.py	/^allList = studentList + [p1, p2, p3] + [q1, q2]$/;"	kind:variable	line:43
+allStudents	../Lesson10/Grades.py	/^    def allStudents(self):$/;"	kind:member	line:41
+an_letters	../Lesson3/cheer.py	/^an_letters = "aefhilmnorsxAEFHILMNORSX"$/;"	kind:variable	line:7
+animal.py	../Lesson9/animal.py	1;"	kind:file	line:1
+animalTagged.py	../Lesson9/animalTagged.py	1;"	kind:file	line:1
+animals	../Lesson6/exercise2.py	/^animals = {'a': 'aardvark', 'b': 'baboon', 'c': 'coati'}$/;"	kind:variable	line:5
+animals	../Lesson6/exercise3.py	/^animals = { 'a': ['aardvark'], 'b': ['baboon'], 'c': ['coati']}$/;"	kind:variable	line:21
+animals	../Lesson6/exercise4.py	/^animals = { 'a': ['aardvark'], 'b': ['baboon'], 'c': ['coati']}$/;"	kind:variable	line:18
+annualInterestRate	../Lesson4/Problem1/problem.py	/^annualInterestRate = 0.2$/;"	kind:variable	line:6
+annualInterestRate	../Lesson4/Problem2/problem.py	/^annualInterestRate = 0.2$/;"	kind:variable	line:6
+annualInterestRate	../Lesson4/Problem3/problem.py	/^annualInterestRate = 0.18$/;"	kind:variable	line:6
+ans	../Lesson2/cubeRoot.py	/^    ans = ans + 1$/;"	kind:variable	line:11
+ans	../Lesson2/cubeRoot.py	/^ans = 0$/;"	kind:variable	line:9
+ans	../Lesson2/iterativeMul.py	/^    ans = ans + x$/;"	kind:variable	line:12
+ans	../Lesson2/iterativeMul.py	/^ans = 0$/;"	kind:variable	line:9
+ans	../Lesson3/exercise1.py	/^    ans = input()$/;"	kind:variable	line:16
+ans	../Lesson3/exercise1.py	/^ans = ''$/;"	kind:variable	line:7
+ans	../Lesson3/sqrtBisection.py	/^    ans = (high + low)\/2.0$/;"	kind:variable	line:22
+ans	../Lesson3/sqrtBisection.py	/^ans = (high + low)\/2.0$/;"	kind:variable	line:13
+ans	../Lesson3/sqrtExample.py	/^    ans = ans + 1$/;"	kind:variable	line:14
+ans	../Lesson3/sqrtExample.py	/^ans = 0$/;"	kind:variable	line:8
+applyEachTo	../Lesson5/exercise1.py	/^def applyEachTo(L, x):$/;"	kind:function	line:1
+applyEachTo	../Lesson5/exercise6.py	/^def applyEachTo(L, x):$/;"	kind:function	line:5
+applyFuns	../Lesson6/applyToEach.py	/^def applyFuns(L, x):$/;"	kind:function	line:16
+applyToEach	../Lesson5/exercise5.py	/^def applyToEach(L, f):$/;"	kind:function	line:5
+applyToEach	../Lesson6/applyToEach.py	/^def applyToEach(L, f):$/;"	kind:function	line:8
+applyToEach.py	../Lesson6/applyToEach.py	1;"	kind:file	line:1
+area	../Lesson1/exercise2.py	/^area = round(radius**2 * pi, 5)$/;"	kind:variable	line:10
+area	../Lesson4/Grader/module.py	/^    def area(n, s):$/;"	kind:function	line:10
+argToUse	../Lesson6/fibonacci.py	/^argToUse = 30$/;"	kind:variable	line:27
+avg	../Lesson8/getStats.py	/^def avg(grades):$/;"	kind:function	line:30
+b	../Lesson4/evalQuadratic.py	/^b = 3$/;"	kind:variable	line:13
+b	../Lesson4/exercise3.py	/^b = 5$/;"	kind:variable	line:12
+b	../Lesson8/exercise1.py	/^    b = int(input("Tell me one number: "))$/;"	kind:variable	line:7
+balance	../Lesson4/Problem1/problem.py	/^    balance = monthlyBalance$/;"	kind:variable	line:22
+balance	../Lesson4/Problem1/problem.py	/^balance = 484$/;"	kind:variable	line:4
+balance	../Lesson4/Problem2/problem.py	/^        balance = monthlyBalance$/;"	kind:variable	line:18
+balance	../Lesson4/Problem2/problem.py	/^    balance = startingBalance$/;"	kind:variable	line:14
+balance	../Lesson4/Problem2/problem.py	/^balance = 4773$/;"	kind:variable	line:4
+balance	../Lesson4/Problem3/problem.py	/^        balance = int(monthlyBalance)$/;"	kind:variable	line:21
+balance	../Lesson4/Problem3/problem.py	/^    balance = startingBalance$/;"	kind:variable	line:17
+balance	../Lesson4/Problem3/problem.py	/^balance = 999999$/;"	kind:variable	line:4
+base	../Lesson4/exercise5.py	/^base = 3$/;"	kind:variable	line:15
+base	../Lesson4/exercise6.py	/^base = 10$/;"	kind:variable	line:15
+beatles	../Lesson6/songs.py	/^beatles = lyrics_to_frequencies(she_loves_you)$/;"	kind:variable	line:69
+biggest	../Lesson6/exercise4.py	/^def biggest(aDict):$/;"	kind:function	line:5
+boston_clock	../Lesson9/exercise5.py	/^boston_clock = Clock('5:30')$/;"	kind:variable	line:13
+c	../Lesson4/evalQuadratic.py	/^c = 5$/;"	kind:variable	line:14
+c	../Lesson9/coordinate.py	/^c = Coordinate(3,4)$/;"	kind:variable	line:22
+c1	../Lesson9/exercise7.py	/^c1 = Coordinate(2, 5)$/;"	kind:variable	line:30
+c2	../Lesson9/exercise7.py	/^c2 = Coordinate(2, 3)$/;"	kind:variable	line:31
+calculateHandlen	../Lesson8/Problem1/ps4a.py	/^def calculateHandlen(hand):$/;"	kind:function	line:181
+calculateHandlen	../Lesson8/Problem2/ps4a.py	/^def calculateHandlen(hand):$/;"	kind:function	line:184
+calculateHandlen	../Lesson8/Problem3/ps4a.py	/^def calculateHandlen(hand):$/;"	kind:function	line:195
+calculateHandlen	../Lesson8/Problem4/ps4a.py	/^def calculateHandlen(hand):$/;"	kind:function	line:195
+calculateHandlen	../Lesson8/Problem5/ps4a.py	/^def calculateHandlen(hand):$/;"	kind:function	line:198
+calculateHandlen	../Lesson8/Problem6/ps4a.py	/^def calculateHandlen(hand):$/;"	kind:function	line:173
+calculateHandlen	../Lesson8/Problem7/ps4a.py	/^def calculateHandlen(hand):$/;"	kind:function	line:173
+change_major	../Lesson9/animal.py	/^    def change_major(self, major):$/;"	kind:member	line:64
+change_major	../Lesson9/exampleClasses.py	/^    def change_major(self, major):$/;"	kind:member	line:57
+change_major	../Lesson9/exercise10.py	/^    def change_major(self, major):$/;"	kind:member	line:63
+char	../Lesson3/cheer.py	/^    char = word[i]$/;"	kind:variable	line:14
+char	../Lesson4/exercise1.py	/^char = 'g'$/;"	kind:variable	line:30
+char	../Lesson4/exercise1.py	/^char = char.lower()$/;"	kind:variable	line:31
+cheer.py	../Lesson3/cheer.py	1;"	kind:file	line:1
+chooseWord	../Lesson6/Problem1/ps3_hangman.py	/^def chooseWord(wordlist):$/;"	kind:function	line:31
+chooseWord	../Lesson6/Problem2/ps3_hangman.py	/^def chooseWord(wordlist):$/;"	kind:function	line:31
+chooseWord	../Lesson6/Problem3/ps3_hangman.py	/^def chooseWord(wordlist):$/;"	kind:function	line:32
+chooseWord	../Lesson6/Problem4/ps3_hangman.py	/^def chooseWord(wordlist):$/;"	kind:function	line:32
+clock	../Lesson9/exercise3.py	/^clock = Clock('5:30')$/;"	kind:variable	line:14
+clock	../Lesson9/exercise4.py	/^clock = Clock('5:30')$/;"	kind:variable	line:12
+compChooseWord	../Lesson8/Problem1/ps4b.py	/^def compChooseWord(hand, wordList, n):$/;"	kind:function	line:10
+compChooseWord	../Lesson8/Problem2/ps4b.py	/^def compChooseWord(hand, wordList, n):$/;"	kind:function	line:10
+compChooseWord	../Lesson8/Problem3/ps4b.py	/^def compChooseWord(hand, wordList, n):$/;"	kind:function	line:10
+compChooseWord	../Lesson8/Problem4/ps4b.py	/^def compChooseWord(hand, wordList, n):$/;"	kind:function	line:10
+compChooseWord	../Lesson8/Problem5/ps4b.py	/^def compChooseWord(hand, wordList, n):$/;"	kind:function	line:10
+compChooseWord	../Lesson8/Problem6/ps4b.py	/^def compChooseWord(hand, wordList, n):$/;"	kind:function	line:10
+compChooseWord	../Lesson8/Problem7/ps4b.py	/^def compChooseWord(hand, wordList, n):$/;"	kind:function	line:5
+compPlayHand	../Lesson8/Problem1/ps4b.py	/^def compPlayHand(hand, wordList, n):$/;"	kind:function	line:47
+compPlayHand	../Lesson8/Problem2/ps4b.py	/^def compPlayHand(hand, wordList, n):$/;"	kind:function	line:47
+compPlayHand	../Lesson8/Problem3/ps4b.py	/^def compPlayHand(hand, wordList, n):$/;"	kind:function	line:47
+compPlayHand	../Lesson8/Problem4/ps4b.py	/^def compPlayHand(hand, wordList, n):$/;"	kind:function	line:47
+compPlayHand	../Lesson8/Problem5/ps4b.py	/^def compPlayHand(hand, wordList, n):$/;"	kind:function	line:47
+compPlayHand	../Lesson8/Problem6/ps4b.py	/^def compPlayHand(hand, wordList, n):$/;"	kind:function	line:47
+compPlayHand	../Lesson8/Problem7/ps4b.py	/^def compPlayHand(hand, wordList, n):$/;"	kind:function	line:41
+compareMortgages	../Lesson10/mortgageVariants.py	/^def compareMortgages(amt, years, fixedRate, pts, ptsRate,$/;"	kind:function	line:42
+convert	../Lesson9/fraction.py	/^    def convert(self):$/;"	kind:member	line:28
+coordinate.py	../Lesson9/coordinate.py	1;"	kind:file	line:1
+cotton	../Lesson9/animalTagged.py	/^cotton = Rabbit(1, peter, hopsy)$/;"	kind:variable	line:62
+count	../Lesson2/exercise7.py	/^count = 0$/;"	kind:variable	line:6
+count	../Lesson2/exercise9.py	/^count = 0$/;"	kind:variable	line:6
+count	../Lesson2/problem2.py	/^count = 0$/;"	kind:variable	line:5
+countChars	../Lesson6/exercise1.py	/^def countChars(mySentence):$/;"	kind:function	line:5
+countVowels	../Sandbox/exercise1.py	/^def countVowels(s):$/;"	kind:function	line:5
+cristian	../Lesson10/main.py	/^cristian = UG('Cristian Lepore', 2018)$/;"	kind:variable	line:10
+cube	../Lesson2/cubeRootGuessCheck.py	/^cube = 28$/;"	kind:variable	line:8
+cube	../Lesson2/cubeRootGuessCheckBetter.py	/^cube = -28$/;"	kind:variable	line:8
+cube	../Lesson3/cubeRootApprox.py	/^cube = 27$/;"	kind:variable	line:8
+cube	../Lesson3/cubeRootApproxBetter.py	/^cube = 27$/;"	kind:variable	line:8
+cube	../Lesson3/cubeRootBisection.py	/^cube = 54$/;"	kind:variable	line:8
+cubeRoot.py	../Lesson2/cubeRoot.py	1;"	kind:file	line:1
+cubeRootApprox.py	../Lesson3/cubeRootApprox.py	1;"	kind:file	line:1
+cubeRootApproxBetter.py	../Lesson3/cubeRootApproxBetter.py	1;"	kind:file	line:1
+cubeRootBisection.py	../Lesson3/cubeRootBisection.py	1;"	kind:file	line:1
+cubeRootGuessCheck.py	../Lesson2/cubeRootGuessCheck.py	1;"	kind:file	line:1
+cubeRootGuessCheckBetter.py	../Lesson2/cubeRootGuessCheckBetter.py	1;"	kind:file	line:1
+current	../Lesson2/exercise4.py	/^current = 1$/;"	kind:variable	line:6
+d	../Lesson6/fibonacci.py	/^d = {1:1, 2:2}$/;"	kind:variable	line:25
+d	../Lesson6/fibonacciCounted.py	/^d = {1:1, 2:2}$/;"	kind:variable	line:39
+daniele	../Lesson10/main.py	/^daniele = UG('Daniele Negri', 2019)$/;"	kind:variable	line:11
+data	../Lesson8/readingData.py	/^data = []$/;"	kind:variable	line:8
+data	../Lesson8/readingDataRev1.py	/^data = []$/;"	kind:variable	line:8
+data	../Lesson8/readingDataRev2.py	/^data = []$/;"	kind:variable	line:8
+datetime	../Lesson10/PersonTrial.py	/^import datetime$/;"	kind:namespace	line:8
+datetime	../Lesson10/TrialCode.py	/^import datetime$/;"	kind:namespace	line:8
+datetime	../Lesson10/exercise1.py	/^import datetime$/;"	kind:namespace	line:5
+dealHand	../Lesson8/Problem1/ps4a.py	/^def dealHand(n):$/;"	kind:function	line:112
+dealHand	../Lesson8/Problem2/ps4a.py	/^def dealHand(n):$/;"	kind:function	line:112
+dealHand	../Lesson8/Problem3/ps4a.py	/^def dealHand(n):$/;"	kind:function	line:112
+dealHand	../Lesson8/Problem4/ps4a.py	/^def dealHand(n):$/;"	kind:function	line:112
+dealHand	../Lesson8/Problem5/ps4a.py	/^def dealHand(n):$/;"	kind:function	line:115
+dealHand	../Lesson8/Problem6/ps4a.py	/^def dealHand(n):$/;"	kind:function	line:99
+dealHand	../Lesson8/Problem7/ps4a.py	/^def dealHand(n):$/;"	kind:function	line:99
+debug_1.py	../Lesson7/debug_1.py	1;"	kind:file	line:1
+debug_2.py	../Lesson7/debug_2.py	1;"	kind:file	line:1
+debug_3.py	../Lesson7/debug_3.py	1;"	kind:file	line:1
+debug_4.py	../Lesson7/debug_4.py	1;"	kind:file	line:1
+debug_5.py	../Lesson7/debug_5.py	1;"	kind:file	line:1
+debug_6.py	../Lesson7/debug_6.py	1;"	kind:file	line:1
+debug_7.py	../Lesson7/debug_7.py	1;"	kind:file	line:1
+debug_8.py	../Lesson7/debug_8.py	1;"	kind:file	line:1
+decimalToBinary.py	../Lesson3/decimalToBinary.py	1;"	kind:file	line:1
+decimalToBinaryFraction.py	../Lesson3/decimalToBinaryFraction.py	1;"	kind:file	line:1
+displayHand	../Lesson8/Problem1/ps4a.py	/^def displayHand(hand):$/;"	kind:function	line:92
+displayHand	../Lesson8/Problem2/ps4a.py	/^def displayHand(hand):$/;"	kind:function	line:92
+displayHand	../Lesson8/Problem3/ps4a.py	/^def displayHand(hand):$/;"	kind:function	line:92
+displayHand	../Lesson8/Problem4/ps4a.py	/^def displayHand(hand):$/;"	kind:function	line:92
+displayHand	../Lesson8/Problem5/ps4a.py	/^def displayHand(hand):$/;"	kind:function	line:92
+displayHand	../Lesson8/Problem6/ps4a.py	/^def displayHand(hand):$/;"	kind:function	line:78
+displayHand	../Lesson8/Problem7/ps4a.py	/^def displayHand(hand):$/;"	kind:function	line:78
+distance	../Lesson9/coordinate.py	/^    def distance(self, other):$/;"	kind:member	line:12
+end	../Lesson2/exercise4.py	/^end = 6$/;"	kind:variable	line:7
+end	../Lesson2/exercise5.py	/^end = 6$/;"	kind:variable	line:6
+epsilon	../Lesson3/NewtonRaphson.py	/^epsilon = 0.01$/;"	kind:variable	line:8
+epsilon	../Lesson3/cubeRootApprox.py	/^epsilon = 0.01$/;"	kind:variable	line:9
+epsilon	../Lesson3/cubeRootApproxBetter.py	/^epsilon = 0.01$/;"	kind:variable	line:9
+epsilon	../Lesson3/cubeRootBisection.py	/^epsilon = 0.01$/;"	kind:variable	line:9
+epsilon	../Lesson3/sqrtBisection.py	/^epsilon = 0.01$/;"	kind:variable	line:9
+epsilon	../Lesson4/fourthPower.py	/^epsilon = 0.01$/;"	kind:variable	line:22
+eric	../Lesson9/exercise10.py	/^eric = Person("Eric", 45)$/;"	kind:variable	line:75
+evalQuadratic	../Lesson4/evalQuadratic.py	/^def evalQuadratic(a, b, c, x):$/;"	kind:function	line:5
+evalQuadratic.py	../Lesson4/evalQuadratic.py	1;"	kind:file	line:1
+evenOdd.py	../Lesson1/evenOdd.py	1;"	kind:file	line:1
+example.py	../Lesson2/example.py	1;"	kind:file	line:1
+exampleClasses.py	../Lesson9/exampleClasses.py	1;"	kind:file	line:1
+exampleDictionary.py	../Lesson6/exampleDictionary.py	1;"	kind:file	line:1
+execute	../Lesson9/exercise11.py	/^    def execute(self):$/;"	kind:member	line:16
+exercise1.py	../Lesson1/exercise1.py	1;"	kind:file	line:1
+exercise1.py	../Lesson10/exercise1.py	1;"	kind:file	line:1
+exercise1.py	../Lesson2/exercise1.py	1;"	kind:file	line:1
+exercise1.py	../Lesson3/exercise1.py	1;"	kind:file	line:1
+exercise1.py	../Lesson4/exercise1.py	1;"	kind:file	line:1
+exercise1.py	../Lesson5/exercise1.py	1;"	kind:file	line:1
+exercise1.py	../Lesson6/exercise1.py	1;"	kind:file	line:1
+exercise1.py	../Lesson7/exercise1.py	1;"	kind:file	line:1
+exercise1.py	../Lesson8/exercise1.py	1;"	kind:file	line:1
+exercise1.py	../Lesson9/exercise1.py	1;"	kind:file	line:1
+exercise1.py	../Sandbox/exercise1.py	1;"	kind:file	line:1
+exercise10.py	../Lesson8/exercise10.py	1;"	kind:file	line:1
+exercise10.py	../Lesson9/exercise10.py	1;"	kind:file	line:1
+exercise11.py	../Lesson9/exercise11.py	1;"	kind:file	line:1
+exercise12.py	../Lesson9/exercise12.py	1;"	kind:file	line:1
+exercise2.py	../Lesson1/exercise2.py	1;"	kind:file	line:1
+exercise2.py	../Lesson10/exercise2.py	1;"	kind:file	line:1
+exercise2.py	../Lesson2/exercise2.py	1;"	kind:file	line:1
+exercise2.py	../Lesson4/exercise2.py	1;"	kind:file	line:1
+exercise2.py	../Lesson5/exercise2.py	1;"	kind:file	line:1
+exercise2.py	../Lesson6/exercise2.py	1;"	kind:file	line:1
+exercise2.py	../Lesson7/exercise2.py	1;"	kind:file	line:1
+exercise2.py	../Lesson8/exercise2.py	1;"	kind:file	line:1
+exercise2.py	../Lesson9/exercise2.py	1;"	kind:file	line:1
+exercise2.py	../Sandbox/exercise2.py	1;"	kind:file	line:1
+exercise3.py	../Lesson10/exercise3.py	1;"	kind:file	line:1
+exercise3.py	../Lesson2/exercise3.py	1;"	kind:file	line:1
+exercise3.py	../Lesson4/exercise3.py	1;"	kind:file	line:1
+exercise3.py	../Lesson5/exercise3.py	1;"	kind:file	line:1
+exercise3.py	../Lesson6/exercise3.py	1;"	kind:file	line:1
+exercise3.py	../Lesson7/exercise3.py	1;"	kind:file	line:1
+exercise3.py	../Lesson8/exercise3.py	1;"	kind:file	line:1
+exercise3.py	../Lesson9/exercise3.py	1;"	kind:file	line:1
+exercise3.py	../Sandbox/exercise3.py	1;"	kind:file	line:1
+exercise4.py	../Lesson2/exercise4.py	1;"	kind:file	line:1
+exercise4.py	../Lesson4/exercise4.py	1;"	kind:file	line:1
+exercise4.py	../Lesson5/exercise4.py	1;"	kind:file	line:1
+exercise4.py	../Lesson6/exercise4.py	1;"	kind:file	line:1
+exercise4.py	../Lesson8/exercise4.py	1;"	kind:file	line:1
+exercise4.py	../Lesson9/exercise4.py	1;"	kind:file	line:1
+exercise5.py	../Lesson2/exercise5.py	1;"	kind:file	line:1
+exercise5.py	../Lesson4/exercise5.py	1;"	kind:file	line:1
+exercise5.py	../Lesson5/exercise5.py	1;"	kind:file	line:1
+exercise5.py	../Lesson8/exercise5.py	1;"	kind:file	line:1
+exercise5.py	../Lesson9/exercise5.py	1;"	kind:file	line:1
+exercise6.py	../Lesson2/exercise6.py	1;"	kind:file	line:1
+exercise6.py	../Lesson4/exercise6.py	1;"	kind:file	line:1
+exercise6.py	../Lesson5/exercise6.py	1;"	kind:file	line:1
+exercise6.py	../Lesson8/exercise6.py	1;"	kind:file	line:1
+exercise6.py	../Lesson9/exercise6.py	1;"	kind:file	line:1
+exercise7.py	../Lesson2/exercise7.py	1;"	kind:file	line:1
+exercise7.py	../Lesson4/exercise7.py	1;"	kind:file	line:1
+exercise7.py	../Lesson8/exercise7.py	1;"	kind:file	line:1
+exercise7.py	../Lesson9/exercise7.py	1;"	kind:file	line:1
+exercise8.py	../Lesson2/exercise8.py	1;"	kind:file	line:1
+exercise8.py	../Lesson4/exercise8.py	1;"	kind:file	line:1
+exercise8.py	../Lesson8/exercise8.py	1;"	kind:file	line:1
+exercise8.py	../Lesson9/exercise8.py	1;"	kind:file	line:1
+exercise9.py	../Lesson2/exercise9.py	1;"	kind:file	line:1
+exercise9.py	../Lesson4/exercise9.py	1;"	kind:file	line:1
+exercise9.py	../Lesson8/exercise9.py	1;"	kind:file	line:1
+exercise9.py	../Lesson9/exercise9.py	1;"	kind:file	line:1
+exerciseTuple.py	../Lesson5/exerciseTuple.py	1;"	kind:file	line:1
+exp	../Lesson4/exercise5.py	/^exp = 5$/;"	kind:variable	line:16
+exp	../Lesson4/exercise6.py	/^exp = 5$/;"	kind:variable	line:16
+f	../Lesson4/fExample.py	/^def f( x ):$/;"	kind:function	line:8
+f	../Lesson7/exercise3.py	/^def f(n):$/;"	kind:function	line:5
+fExample.py	../Lesson4/fExample.py	1;"	kind:file	line:1
+factorial	../Lesson4/exercise4.py	/^def factorial(x):$/;"	kind:function	line:5
+faculty	../Lesson10/ProfessorTrial.py	/^faculty = Professor('Doctor Arrogant', 'six')$/;"	kind:variable	line:21
+fancy_divide	../Lesson8/exercise3.py	/^def fancy_divide(numbers,index):$/;"	kind:function	line:5
+fancy_divide	../Lesson8/exercise4.py	/^def fancy_divide(numbers, index):$/;"	kind:function	line:5
+fancy_divide	../Lesson8/exercise5.py	/^def fancy_divide(numbers, index):$/;"	kind:function	line:5
+fancy_divide	../Lesson8/exercise6.py	/^def fancy_divide(list_of_numbers, index):$/;"	kind:function	line:5
+fancy_divide	../Lesson8/exercise7.py	/^def fancy_divide(list_of_numbers, index):$/;"	kind:function	line:5
+fancy_divide	../Lesson8/exercise8.py	/^def fancy_divide(list_of_numbers, index):$/;"	kind:function	line:5
+fh	../Lesson8/readingData.py	/^    fh = open(file_name, 'r')$/;"	kind:variable	line:14
+fh	../Lesson8/readingDataRev1.py	/^    fh = open(file_name, 'r')$/;"	kind:variable	line:14
+fh	../Lesson8/readingDataRev2.py	/^    fh = open(file_name, 'r')$/;"	kind:variable	line:14
+fib	../Lesson4/fib.py	/^def fib(x):$/;"	kind:function	line:8
+fib	../Lesson6/fibonacci.py	/^def fib(n):$/;"	kind:function	line:8
+fib	../Lesson6/fibonacciCounted.py	/^def fib(n):$/;"	kind:function	line:8
+fib.py	../Lesson4/fib.py	1;"	kind:file	line:1
+fibArg	../Lesson6/fibonacciCounted.py	/^fibArg = 34$/;"	kind:variable	line:32
+fib_efficient	../Lesson6/fibonacci.py	/^def fib_efficient(n, d):$/;"	kind:function	line:17
+fib_efficient	../Lesson6/fibonacciCounted.py	/^def fib_efficient(n, d):$/;"	kind:function	line:19
+fibonacci.py	../Lesson6/fibonacci.py	1;"	kind:file	line:1
+fibonacciCounted.py	../Lesson6/fibonacciCounted.py	1;"	kind:file	line:1
+file_name	../Lesson8/readingData.py	/^file_name = "\/var\/www\/html\/exercises\/Lesson8\/" + file_name$/;"	kind:variable	line:11
+file_name	../Lesson8/readingData.py	/^file_name = input("Provide a name of a file of data ")$/;"	kind:variable	line:10
+file_name	../Lesson8/readingDataRev1.py	/^file_name = "\/var\/www\/html\/exercises\/Lesson8\/" + file_name$/;"	kind:variable	line:11
+file_name	../Lesson8/readingDataRev1.py	/^file_name = input("Provide a name of a file of data ")$/;"	kind:variable	line:10
+file_name	../Lesson8/readingDataRev2.py	/^file_name = "\/var\/www\/html\/exercises\/Lesson8\/" + file_name$/;"	kind:variable	line:11
+file_name	../Lesson8/readingDataRev2.py	/^file_name = input("Provide a name of a file of data ")$/;"	kind:variable	line:10
+findElement.py	../Lesson4/findElement.py	1;"	kind:file	line:1
+findMaxPoints	../Lesson10/ptsMortgage.py	/^def findMaxPoints(amt, years, fixedRate, ptsRate, minPts, maxPts):$/;"	kind:function	line:11
+findMaxPointsBisection	../Lesson10/ptsMortgage.py	/^def findMaxPointsBisection(amt, years, fixedRate, ptsRate, minPts, maxPts):$/;"	kind:function	line:33
+findPayment	../Lesson10/mortgage.py	/^def findPayment(loan, r, m):$/;"	kind:function	line:8
+find_elem_recur	../Lesson4/findElement.py	/^def find_elem_recur(e, L):$/;"	kind:function	line:8
+foo.py	../Lesson1/foo.py	1;"	kind:file	line:1
+fourthPower	../Lesson4/fourthPower.py	/^def fourthPower(x):$/;"	kind:function	line:5
+fourthPower.py	../Lesson4/fourthPower.py	1;"	kind:file	line:1
+fraction	../Lesson9/fraction.py	/^class fraction(object):$/;"	kind:class	line:8
+fraction.py	../Lesson9/fraction.py	1;"	kind:file	line:1
+funcAsArgs.py	../Lesson4/funcAsArgs.py	1;"	kind:file	line:1
+func_a	../Lesson4/funcAsArgs.py	/^def func_a():$/;"	kind:function	line:8
+func_b	../Lesson4/funcAsArgs.py	/^def func_b(y):$/;"	kind:function	line:10
+func_c	../Lesson4/funcAsArgs.py	/^def func_c(z):$/;"	kind:function	line:13
+g	../Lesson4/gAndHExample.py	/^def g(x):$/;"	kind:function	line:8
+g1	../Lesson10/Grades.py	/^g1 = Grad('Bill Gates')$/;"	kind:variable	line:73
+g2	../Lesson10/Grades.py	/^g2 = Grad('Steve Wozniak')$/;"	kind:variable	line:74
+gAndHExample.py	../Lesson4/gAndHExample.py	1;"	kind:file	line:1
+gcdIter	../Lesson4/exercise7.py	/^def gcdIter(a, b):$/;"	kind:function	line:5
+gcdRecur	../Lesson4/exercise8.py	/^def gcdRecur(a, b):$/;"	kind:function	line:5
+genFib	../Lesson10/genFib.py	/^def genFib():$/;"	kind:function	line:8
+genFib.py	../Lesson10/genFib.py	1;"	kind:file	line:1
+getAge	../Lesson10/PersonTrial.py	/^    def getAge(self):$/;"	kind:member	line:25
+getAge	../Lesson10/TrialCode.py	/^    def getAge(self):$/;"	kind:member	line:25
+getAge	../Lesson10/exercise1.py	/^    def getAge(self):$/;"	kind:member	line:23
+getAvailableLetters	../Lesson6/Problem1/ps3_hangman.py	/^def getAvailableLetters(lettersGuessed):$/;"	kind:function	line:76
+getAvailableLetters	../Lesson6/Problem2/ps3_hangman.py	/^def getAvailableLetters(lettersGuessed):$/;"	kind:function	line:83
+getAvailableLetters	../Lesson6/Problem3/ps3_hangman.py	/^def getAvailableLetters(lettersGuessed):$/;"	kind:function	line:84
+getAvailableLetters	../Lesson6/Problem4/ps3_hangman.py	/^def getAvailableLetters(lettersGuessed):$/;"	kind:function	line:84
+getClass	../Lesson10/Student.py	/^    def getClass(self):$/;"	kind:member	line:16
+getClass	../Lesson10/UG.py	/^    def getClass(self):$/;"	kind:member	line:13
+getClass	../Lesson10/UGTrial1.py	/^    def getClass(self):$/;"	kind:member	line:13
+getClass	../Lesson10/UGTrial2.py	/^    def getClass(self):$/;"	kind:member	line:16
+getClass	../Lesson10/UGTrial2Modified.py	/^    def getClass(self):$/;"	kind:member	line:16
+getClass	../Lesson10/UG_v1.py	/^    def getClass(self):$/;"	kind:member	line:13
+getClass	../Lesson10/exercise3.py	/^    def getClass(self):$/;"	kind:member	line:13
+getData.py	../Lesson5/getData.py	1;"	kind:file	line:1
+getDenom	../Lesson9/fraction.py	/^    def getDenom(self):$/;"	kind:member	line:16
+getDescription	../Lesson9/exercise11.py	/^    def getDescription(self):$/;"	kind:member	line:13
+getDescription	../Lesson9/exercise11.py	/^    def getDescription(self):$/;"	kind:member	line:23
+getDescription	../Lesson9/exercise11.py	/^    def getDescription(self):$/;"	kind:member	line:30
+getFrequencyDict	../Lesson8/Problem1/ps4a.py	/^def getFrequencyDict(sequence):$/;"	kind:function	line:37
+getFrequencyDict	../Lesson8/Problem2/ps4a.py	/^def getFrequencyDict(sequence):$/;"	kind:function	line:37
+getFrequencyDict	../Lesson8/Problem3/ps4a.py	/^def getFrequencyDict(sequence):$/;"	kind:function	line:37
+getFrequencyDict	../Lesson8/Problem4/ps4a.py	/^def getFrequencyDict(sequence):$/;"	kind:function	line:37
+getFrequencyDict	../Lesson8/Problem5/ps4a.py	/^def getFrequencyDict(sequence):$/;"	kind:function	line:37
+getFrequencyDict	../Lesson8/Problem6/ps4a.py	/^def getFrequencyDict(sequence):$/;"	kind:function	line:33
+getFrequencyDict	../Lesson8/Problem7/ps4a.py	/^def getFrequencyDict(sequence):$/;"	kind:function	line:33
+getGrades	../Lesson10/Grades.py	/^    def getGrades(self, student):$/;"	kind:member	line:33
+getGuessedWord	../Lesson6/Problem1/ps3_hangman.py	/^def getGuessedWord(secretWord, lettersGuessed):$/;"	kind:function	line:65
+getGuessedWord	../Lesson6/Problem2/ps3_hangman.py	/^def getGuessedWord(secretWord, lettersGuessed):$/;"	kind:function	line:65
+getGuessedWord	../Lesson6/Problem3/ps3_hangman.py	/^def getGuessedWord(secretWord, lettersGuessed):$/;"	kind:function	line:66
+getGuessedWord	../Lesson6/Problem4/ps3_hangman.py	/^def getGuessedWord(secretWord, lettersGuessed):$/;"	kind:function	line:66
+getIdNum	../Lesson10/MITPerson.py	/^    def getIdNum(self):$/;"	kind:member	line:17
+getIdNum	../Lesson10/MITPersonModifiedTrial.py	/^    def getIdNum(self):$/;"	kind:member	line:17
+getIdNum	../Lesson10/MITPersonTrial.py	/^    def getIdNum(self):$/;"	kind:member	line:17
+getIdNum	../Lesson10/exercise2.py	/^    def getIdNum(self):$/;"	kind:member	line:15
+getLastName	../Lesson10/PersonTrial.py	/^    def getLastName(self):$/;"	kind:member	line:17
+getLastName	../Lesson10/TrialCode.py	/^    def getLastName(self):$/;"	kind:member	line:17
+getLastName	../Lesson10/exercise1.py	/^    def getLastName(self):$/;"	kind:member	line:14
+getNumer	../Lesson9/fraction.py	/^    def getNumer(self):$/;"	kind:member	line:14
+getRatios.py	../Lesson8/getRatios.py	1;"	kind:file	line:1
+getStats.py	../Lesson8/getStats.py	1;"	kind:file	line:1
+getTotalPaid	../Lesson10/mortgage.py	/^    def getTotalPaid(self):$/;"	kind:member	line:35
+getWordScore	../Lesson8/Problem1/ps4a.py	/^def getWordScore(word, n):$/;"	kind:function	line:59
+getWordScore	../Lesson8/Problem2/ps4a.py	/^def getWordScore(word, n):$/;"	kind:function	line:59
+getWordScore	../Lesson8/Problem3/ps4a.py	/^def getWordScore(word, n):$/;"	kind:function	line:59
+getWordScore	../Lesson8/Problem4/ps4a.py	/^def getWordScore(word, n):$/;"	kind:function	line:59
+getWordScore	../Lesson8/Problem5/ps4a.py	/^def getWordScore(word, n):$/;"	kind:function	line:59
+getWordScore	../Lesson8/Problem6/ps4a.py	/^def getWordScore(word, n):$/;"	kind:function	line:49
+getWordScore	../Lesson8/Problem7/ps4a.py	/^def getWordScore(word, n):$/;"	kind:function	line:49
+getX	../Lesson9/exercise6.py	/^    def getX(self):$/;"	kind:member	line:18
+getX	../Lesson9/exercise6.py	/^    def getX(self):$/;"	kind:member	line:9
+getX	../Lesson9/exercise7.py	/^    def getX(self):$/;"	kind:member	line:11
+getY	../Lesson9/exercise6.py	/^    def getY(self):$/;"	kind:member	line:11
+getY	../Lesson9/exercise6.py	/^    def getY(self):$/;"	kind:member	line:20
+getY	../Lesson9/exercise7.py	/^    def getY(self):$/;"	kind:member	line:16
+get_age	../Lesson9/animal.py	/^    def get_age(self):$/;"	kind:member	line:12
+get_age	../Lesson9/animalTagged.py	/^    def get_age(self):$/;"	kind:member	line:12
+get_age	../Lesson9/exampleClasses.py	/^    def get_age(self):$/;"	kind:member	line:12
+get_age	../Lesson9/exercise10.py	/^    def get_age(self):$/;"	kind:member	line:9
+get_age	../Lesson9/exercise9.py	/^    def get_age(self):$/;"	kind:member	line:9
+get_data	../Lesson5/getData.py	/^def get_data(aTuple):$/;"	kind:function	line:8
+get_friends	../Lesson9/animal.py	/^    def get_friends(self):$/;"	kind:member	line:40
+get_friends	../Lesson9/exampleClasses.py	/^    def get_friends(self):$/;"	kind:member	line:34
+get_friends	../Lesson9/exercise10.py	/^    def get_friends(self):$/;"	kind:member	line:37
+get_name	../Lesson9/animal.py	/^    def get_name(self):$/;"	kind:member	line:14
+get_name	../Lesson9/animalTagged.py	/^    def get_name(self):$/;"	kind:member	line:14
+get_name	../Lesson9/exampleClasses.py	/^    def get_name(self):$/;"	kind:member	line:14
+get_name	../Lesson9/exercise10.py	/^    def get_name(self):$/;"	kind:member	line:11
+get_name	../Lesson9/exercise9.py	/^    def get_name(self):$/;"	kind:member	line:11
+get_parent1	../Lesson9/animalTagged.py	/^    def get_parent1(self):$/;"	kind:member	line:40
+get_parent2	../Lesson9/animalTagged.py	/^    def get_parent2(self):$/;"	kind:member	line:42
+get_ratios	../Lesson8/getRatios.py	/^def get_ratios(L1, L2):$/;"	kind:function	line:8
+get_rid	../Lesson9/animalTagged.py	/^    def get_rid(self):$/;"	kind:member	line:38
+get_stats	../Lesson8/getStats.py	/^def get_stats(class_list):$/;"	kind:function	line:9
+gradeReport	../Lesson10/Grades.py	/^def gradeReport(course):$/;"	kind:function	line:51
+grader.py	../Lesson4/Grader/grader.py	1;"	kind:file	line:1
+grades	../Lesson6/grades.py	/^grades = {'Ana':'B', 'John':'A+', 'Denise':'A', 'Katy':'A'}$/;"	kind:variable	line:8
+grades	../Lesson8/readingDataRev2.py	/^            grades = int(student[-1])$/;"	kind:variable	line:30
+grades.py	../Lesson6/grades.py	1;"	kind:file	line:1
+gradesData	../Lesson8/readingDataRev1.py	/^gradesData = []$/;"	kind:variable	line:25
+gradesData	../Lesson8/readingDataRev2.py	/^gradesData = []$/;"	kind:variable	line:25
+greeting	../Lesson2/exercise7.py	/^greeting = 'Hello!'$/;"	kind:variable	line:5
+guess	../Lesson2/cubeRootGuessCheckBetter.py	/^        guess = -guess$/;"	kind:variable	line:16
+guess	../Lesson3/NewtonRaphson.py	/^    guess = guess - (((guess**2) - y)\/(2*guess))$/;"	kind:variable	line:15
+guess	../Lesson3/NewtonRaphson.py	/^guess = y\/2.0$/;"	kind:variable	line:10
+guess	../Lesson3/cubeRootApprox.py	/^guess = 0.0$/;"	kind:variable	line:10
+guess	../Lesson3/cubeRootApproxBetter.py	/^guess = 0.0$/;"	kind:variable	line:10
+guess	../Lesson3/cubeRootBisection.py	/^    guess = (high + low)\/2.0$/;"	kind:variable	line:19
+guess	../Lesson3/cubeRootBisection.py	/^guess = (high + low)\/2.0$/;"	kind:variable	line:13
+guess	../Lesson4/fourthPower.py	/^guess = round(fourthPower(x), 4)$/;"	kind:variable	line:25
+h	../Lesson4/gAndHExample.py	/^    def h():$/;"	kind:function	line:9
+halve	../Lesson5/exercise1.py	/^def halve(a):$/;"	kind:function	line:10
+halve	../Lesson5/exercise6.py	/^def halve(a):$/;"	kind:function	line:18
+hangman	../Lesson6/Problem1/ps3_hangman.py	/^def hangman(secretWord):$/;"	kind:function	line:85
+hangman	../Lesson6/Problem2/ps3_hangman.py	/^def hangman(secretWord):$/;"	kind:function	line:92
+hangman	../Lesson6/Problem3/ps3_hangman.py	/^def hangman(secretWord):$/;"	kind:function	line:99
+hangman	../Lesson6/Problem4/ps3_hangman.py	/^def hangman(secretWord):$/;"	kind:function	line:99
+height	../Lesson9/exercise1.py	/^height = 1.77$/;"	kind:variable	line:11
+height_difference	../Lesson9/exercise2.py	/^    def height_difference(self, other):$/;"	kind:member	line:11
+high	../Lesson3/cubeRootBisection.py	/^        high = guess$/;"	kind:variable	line:18
+high	../Lesson3/cubeRootBisection.py	/^high = cube$/;"	kind:variable	line:12
+high	../Lesson3/exercise1.py	/^        high = x$/;"	kind:variable	line:23
+high	../Lesson3/exercise1.py	/^high = 100$/;"	kind:variable	line:6
+high	../Lesson3/sqrtBisection.py	/^        high = ans$/;"	kind:variable	line:21
+high	../Lesson3/sqrtBisection.py	/^high = x$/;"	kind:variable	line:12
+hopsy	../Lesson9/animalTagged.py	/^hopsy = Rabbit(3)$/;"	kind:variable	line:60
+how_many	../Lesson6/exercise3.py	/^def how_many(aDict):$/;"	kind:function	line:5
+i	../Lesson3/cheer.py	/^i = 0$/;"	kind:variable	line:11
+inc	../Lesson5/exercise1.py	/^def inc(a):$/;"	kind:function	line:13
+inc	../Lesson5/exercise6.py	/^def inc(a):$/;"	kind:function	line:21
+increment	../Lesson3/cubeRootApprox.py	/^increment = 0.01$/;"	kind:variable	line:11
+increment	../Lesson3/cubeRootApproxBetter.py	/^increment = 0.0001$/;"	kind:variable	line:11
+insert	../Lesson9/exercise8.py	/^    def insert(self, e):$/;"	kind:member	line:14
+insert	../Lesson9/integer_set.py	/^    def insert(self, e):$/;"	kind:member	line:10
+insert	../Lesson9/integer_set_nodoc.py	/^    def insert(self, e):$/;"	kind:member	line:4
+intSet	../Lesson9/exercise8.py	/^class intSet(object):$/;"	kind:class	line:5
+intSet	../Lesson9/integer_set.py	/^class intSet(object):$/;"	kind:class	line:1
+intSet	../Lesson9/integer_set_nodoc.py	/^class intSet(object):$/;"	kind:class	line:1
+integerDivision	../Lesson7/exercise1.py	/^def integerDivision(x, a):$/;"	kind:function	line:5
+integer_set.py	../Lesson9/integer_set.py	1;"	kind:file	line:1
+integer_set_nodoc.py	../Lesson9/integer_set_nodoc.py	1;"	kind:file	line:1
+intersect	../Lesson9/exercise8.py	/^    def intersect(self, other):$/;"	kind:member	line:37
+isIn	../Lesson4/exercise1.py	/^def isIn(char, aStr):$/;"	kind:function	line:1
+isIn	../Lesson4/exercise9.py	/^def isIn(char, aStr):$/;"	kind:function	line:5
+isNeg	../Lesson3/decimalToBinary.py	/^    isNeg = False$/;"	kind:variable	line:15
+isNeg	../Lesson3/decimalToBinary.py	/^    isNeg = True$/;"	kind:variable	line:12
+isPal	../Lesson4/palindrome.py	/^    def isPal(s):$/;"	kind:function	line:18
+isPal	../Lesson7/debug_1.py	/^def isPal(x):$/;"	kind:function	line:8
+isPal	../Lesson7/debug_2.py	/^def isPal(x):$/;"	kind:function	line:8
+isPal	../Lesson7/debug_3.py	/^def isPal(x):$/;"	kind:function	line:8
+isPal	../Lesson7/debug_4.py	/^def isPal(x):$/;"	kind:function	line:8
+isPal	../Lesson7/debug_5.py	/^def isPal(x):$/;"	kind:function	line:8
+isPal	../Lesson7/debug_6.py	/^def isPal(x):$/;"	kind:function	line:8
+isPal	../Lesson7/debug_7.py	/^def isPal(x):$/;"	kind:function	line:8
+isPal	../Lesson7/debug_8.py	/^def isPal(x):$/;"	kind:function	line:8
+isPalindrome	../Lesson4/palindrome.py	/^def isPalindrome(s):$/;"	kind:function	line:8
+isStudent	../Lesson10/Student.py	/^def isStudent(obj):$/;"	kind:function	line:25
+isStudent	../Lesson10/UG.py	/^def isStudent(obj):$/;"	kind:function	line:19
+isStudent	../Lesson10/UGTrial1.py	/^def isStudent(obj):$/;"	kind:function	line:22
+isStudent	../Lesson10/UGTrial2.py	/^def isStudent(obj):$/;"	kind:function	line:28
+isStudent	../Lesson10/UGTrial2Modified.py	/^def isStudent(obj):$/;"	kind:function	line:28
+isStudent	../Lesson10/UG_v1.py	/^def isStudent(obj):$/;"	kind:function	line:22
+isValidWord	../Lesson8/Problem1/ps4a.py	/^def isValidWord(word, hand, wordList):$/;"	kind:function	line:163
+isValidWord	../Lesson8/Problem2/ps4a.py	/^def isValidWord(word, hand, wordList):$/;"	kind:function	line:166
+isValidWord	../Lesson8/Problem3/ps4a.py	/^def isValidWord(word, hand, wordList):$/;"	kind:function	line:166
+isValidWord	../Lesson8/Problem4/ps4a.py	/^def isValidWord(word, hand, wordList):$/;"	kind:function	line:166
+isValidWord	../Lesson8/Problem5/ps4a.py	/^def isValidWord(word, hand, wordList):$/;"	kind:function	line:169
+isValidWord	../Lesson8/Problem6/ps4a.py	/^def isValidWord(word, hand, wordList):$/;"	kind:function	line:148
+isValidWord	../Lesson8/Problem7/ps4a.py	/^def isValidWord(word, hand, wordList):$/;"	kind:function	line:148
+isWordGuessed	../Lesson6/Problem1/ps3_hangman.py	/^def isWordGuessed(secretWord, lettersGuessed):$/;"	kind:function	line:46
+isWordGuessed	../Lesson6/Problem2/ps3_hangman.py	/^def isWordGuessed(secretWord, lettersGuessed):$/;"	kind:function	line:46
+isWordGuessed	../Lesson6/Problem3/ps3_hangman.py	/^def isWordGuessed(secretWord, lettersGuessed):$/;"	kind:function	line:47
+isWordGuessed	../Lesson6/Problem4/ps3_hangman.py	/^def isWordGuessed(secretWord, lettersGuessed):$/;"	kind:function	line:47
+iterPower	../Lesson4/exercise5.py	/^def iterPower(base, exp):$/;"	kind:function	line:5
+iteration	../Lesson2/exercise9.py	/^iteration = 0$/;"	kind:variable	line:5
+iterativeMul.py	../Lesson2/iterativeMul.py	1;"	kind:file	line:1
+itersLeft	../Lesson2/iterativeMul.py	/^    itersLeft = itersLeft - 1$/;"	kind:variable	line:13
+itersLeft	../Lesson2/iterativeMul.py	/^itersLeft = x$/;"	kind:variable	line:10
+john	../Lesson9/exercise10.py	/^john = Person("John", 32)$/;"	kind:variable	line:76
+lecture	../Lesson10/ProfessorTrial.py	/^    def lecture(self, topic):$/;"	kind:member	line:17
+less	../Sandbox/exercise3.py	/^    def less(str):$/;"	kind:function	line:12
+lettersGuessed	../Lesson6/Problem2/ps3_hangman.py	/^lettersGuessed = ['e', 'i', 'k', 'p', 'r', 's']$/;"	kind:variable	line:127
+lettersGuessed	../Lesson6/Problem3/ps3_hangman.py	/^lettersGuessed = ['e', 'i', 'k', 'p', 'r', 's']$/;"	kind:variable	line:134
+loadWords	../Lesson6/Problem1/ps3_hangman.py	/^def loadWords():$/;"	kind:function	line:14
+loadWords	../Lesson6/Problem2/ps3_hangman.py	/^def loadWords():$/;"	kind:function	line:14
+loadWords	../Lesson6/Problem3/ps3_hangman.py	/^def loadWords():$/;"	kind:function	line:15
+loadWords	../Lesson6/Problem4/ps3_hangman.py	/^def loadWords():$/;"	kind:function	line:15
+loadWords	../Lesson8/Problem1/ps4a.py	/^def loadWords():$/;"	kind:function	line:20
+loadWords	../Lesson8/Problem2/ps4a.py	/^def loadWords():$/;"	kind:function	line:20
+loadWords	../Lesson8/Problem3/ps4a.py	/^def loadWords():$/;"	kind:function	line:20
+loadWords	../Lesson8/Problem4/ps4a.py	/^def loadWords():$/;"	kind:function	line:20
+loadWords	../Lesson8/Problem5/ps4a.py	/^def loadWords():$/;"	kind:function	line:20
+loadWords	../Lesson8/Problem6/ps4a.py	/^def loadWords():$/;"	kind:function	line:16
+loadWords	../Lesson8/Problem7/ps4a.py	/^def loadWords():$/;"	kind:function	line:16
+longest	../Sandbox/exercise3.py	/^def longest(s):$/;"	kind:function	line:5
+longestSubstr	../Lesson2/problem3.py	/^def longestSubstr(s):$/;"	kind:function	line:5
+low	../Lesson3/cubeRootBisection.py	/^        low = guess$/;"	kind:variable	line:16
+low	../Lesson3/cubeRootBisection.py	/^low = 0$/;"	kind:variable	line:11
+low	../Lesson3/exercise1.py	/^        low = x$/;"	kind:variable	line:21
+low	../Lesson3/exercise1.py	/^low = 0$/;"	kind:variable	line:5
+low	../Lesson3/sqrtBisection.py	/^        low = ans$/;"	kind:variable	line:19
+low	../Lesson3/sqrtBisection.py	/^low = 0.0$/;"	kind:variable	line:11
+lyrics_to_frequencies	../Lesson6/songs.py	/^def lyrics_to_frequencies(lyrics):$/;"	kind:function	line:8
+m1	../Lesson10/MITPersonModifiedTrial.py	/^m1 = MITPerson('Mark Zuckerberg')$/;"	kind:variable	line:30
+m1	../Lesson10/MITPersonTrial.py	/^m1 = MITPerson('Bill Gates')$/;"	kind:variable	line:34
+m2	../Lesson10/MITPersonModifiedTrial.py	/^m2 = MITPerson('Drew Houston')$/;"	kind:variable	line:32
+m2	../Lesson10/MITPersonTrial.py	/^m2 = MITPerson('Drew Houston')$/;"	kind:variable	line:32
+m3	../Lesson10/MITPersonModifiedTrial.py	/^m3 = MITPerson('Bill Gates')$/;"	kind:variable	line:34
+m3	../Lesson10/MITPersonTrial.py	/^m3 = MITPerson('Mark Zuckerberg')$/;"	kind:variable	line:30
+m4	../Lesson10/MITPersonModifiedTrial.py	/^m4 = Person('Travis Kalanik')$/;"	kind:variable	line:36
+m5	../Lesson10/MITPersonModifiedTrial.py	/^m5 = Person('Steve Wozniak')$/;"	kind:variable	line:37
+main.py	../Lesson10/main.py	1;"	kind:file	line:1
+makePayment	../Lesson10/mortgage.py	/^    def makePayment(self):$/;"	kind:member	line:29
+makePayment	../Lesson10/mortgageVariants.py	/^    def makePayment(self):$/;"	kind:member	line:33
+math	../Lesson4/Grader/grader.py	/^from module import math$/;"	kind:namespace	line:2
+math	../Lesson4/Grader/module.py	/^import math$/;"	kind:namespace	line:2
+member	../Lesson9/exercise8.py	/^    def member(self, e):$/;"	kind:member	line:19
+member	../Lesson9/integer_set.py	/^    def member(self, e):$/;"	kind:member	line:15
+member	../Lesson9/integer_set_nodoc.py	/^    def member(self, e):$/;"	kind:member	line:7
+minimumMonthlyPayment	../Lesson4/Problem1/module.py	/^    def minimumMonthlyPayment(monthlyPaymentRate, balance):$/;"	kind:function	line:14
+module.py	../Lesson4/Grader/module.py	1;"	kind:file	line:1
+module.py	../Lesson4/Problem1/module.py	1;"	kind:file	line:1
+module.py	../Lesson4/Problem2/module.py	1;"	kind:file	line:1
+module.py	../Lesson4/Problem3/module.py	1;"	kind:file	line:1
+monthlyBalance	../Lesson4/Problem1/problem.py	/^    monthlyBalance = newMonthlyBalance(balance, annualInterestRate, monthlyPaymentRate)$/;"	kind:variable	line:21
+monthlyBalance	../Lesson4/Problem2/problem.py	/^        monthlyBalance = newMonthlyBalance(balance, annualInterestRate, monthlyPayment)$/;"	kind:variable	line:17
+monthlyBalance	../Lesson4/Problem3/problem.py	/^        monthlyBalance = newMonthlyBalance(balance, annualInterestRate, monthlyPayment)$/;"	kind:variable	line:20
+monthlyInterestRate	../Lesson4/Problem1/module.py	/^    def monthlyInterestRate(annualInterestRate):$/;"	kind:function	line:7
+monthlyInterestRate	../Lesson4/Problem2/module.py	/^    def monthlyInterestRate(annualInterestRate):$/;"	kind:function	line:7
+monthlyInterestRate	../Lesson4/Problem3/module.py	/^    def monthlyInterestRate(annualInterestRate):$/;"	kind:function	line:14
+monthlyInterestRate	../Lesson4/Problem3/module.py	/^def monthlyInterestRate(annualInterestRate):$/;"	kind:function	line:1
+monthlyPayment	../Lesson4/Problem2/problem.py	/^monthlyPayment = 10$/;"	kind:variable	line:8
+monthlyPayment	../Lesson4/Problem3/problem.py	/^    monthlyPayment = round((monthlyPaymentLowerBound + monthlyPaymentUpperBound) \/ 2.0, 2)$/;"	kind:variable	line:16
+monthlyPaymentLowerBound	../Lesson4/Problem3/problem.py	/^        monthlyPaymentLowerBound = monthlyPayment$/;"	kind:variable	line:25
+monthlyPaymentLowerBound	../Lesson4/Problem3/problem.py	/^monthlyPaymentLowerBound = balance \/ 12.0$/;"	kind:variable	line:8
+monthlyPaymentRate	../Lesson4/Problem1/problem.py	/^monthlyPaymentRate = 0.04$/;"	kind:variable	line:8
+monthlyPaymentUpperBound	../Lesson4/Problem3/problem.py	/^        monthlyPaymentUpperBound = monthlyPayment$/;"	kind:variable	line:27
+monthlyPaymentUpperBound	../Lesson4/Problem3/problem.py	/^monthlyPaymentUpperBound = (balance * (1 + monthlyInterestRate(annualInterestRate))**12) \/ 12$/;"	kind:variable	line:10
+monthlyUnpaidBalance	../Lesson4/Problem1/module.py	/^    def monthlyUnpaidBalance(balance, minimumMonthlyPayment):$/;"	kind:function	line:21
+monthlyUnpaidBalance	../Lesson4/Problem2/module.py	/^    def monthlyUnpaidBalance(balance, monthlyPayment):$/;"	kind:function	line:14
+monthlyUnpaidBalance	../Lesson4/Problem3/module.py	/^    def monthlyUnpaidBalance(balance, monthlyPayment):$/;"	kind:function	line:21
+monthsInAYear	../Lesson4/Problem1/problem.py	/^monthsInAYear = 12$/;"	kind:variable	line:10
+monthsInAYear	../Lesson4/Problem2/problem.py	/^monthsInAYear = 12$/;"	kind:variable	line:10
+monthsInAYear	../Lesson4/Problem3/problem.py	/^monthsInAYear = 12$/;"	kind:variable	line:12
+mopsy	../Lesson9/animalTagged.py	/^mopsy = peter + hopsy$/;"	kind:variable	line:64
+mortgage.py	../Lesson10/mortgage.py	1;"	kind:file	line:1
+mortgageVariants.py	../Lesson10/mortgageVariants.py	1;"	kind:file	line:1
+most_common_words	../Lesson6/songs.py	/^def most_common_words(freqs):$/;"	kind:function	line:72
+mult	../Lesson4/exercise3.py	/^def mult(a, b):$/;"	kind:function	line:1
+mult	../Lesson5/exercise5.py	/^def mult(a):$/;"	kind:function	line:14
+multList.py	../Lesson4/multList.py	1;"	kind:file	line:1
+mult_list_recur	../Lesson4/multList.py	/^def mult_list_recur(L):$/;"	kind:function	line:8
+myAnimal	../Lesson9/exercise10.py	/^myAnimal = Animal(1)$/;"	kind:variable	line:70
+myAnimal1	../Lesson9/exercise9.py	/^myAnimal1 = Animal(2)$/;"	kind:variable	line:20
+myAnimal2	../Lesson9/exercise9.py	/^myAnimal2 = Animal(3, 'Mike')$/;"	kind:variable	line:21
+myCat	../Lesson9/exercise10.py	/^myCat = Cat(2)$/;"	kind:variable	line:68
+myList	../Lesson8/exercise1.py	/^myList = [10, 20, 30]$/;"	kind:variable	line:20
+myRabbit	../Lesson9/exercise10.py	/^myRabbit = Rabbit(5)$/;"	kind:variable	line:73
+mySentence	../Lesson6/exercise1.py	/^mySentence = input("Insert a sentence: ")$/;"	kind:variable	line:34
+myStr	../Lesson2/example.py	/^myStr = int(input("Print something: "))$/;"	kind:variable	line:7
+myStr	../Lesson2/exercise6.py	/^myStr = '6.00x'$/;"	kind:variable	line:5
+mysum	../Lesson2/mysum.py	/^mysum = 0$/;"	kind:variable	line:8
+mysum.py	../Lesson2/mysum.py	1;"	kind:file	line:1
+n	../Lesson2/exercise1.py	/^n = 0$/;"	kind:variable	line:1
+n	../Lesson4/Grader/grader.py	/^n = 5$/;"	kind:variable	line:6
+n	../Lesson8/exercise2.py	/^        n = input("Please enter an integer: ")$/;"	kind:variable	line:7
+n	../Lesson8/exercise2.py	/^        n = int(n)$/;"	kind:variable	line:8
+name	../Lesson8/readingDataRev2.py	/^            name = student[0:-1]$/;"	kind:variable	line:29
+neg_flag	../Lesson3/sqrtExample.py	/^    neg_flag = True$/;"	kind:variable	line:12
+neg_flag	../Lesson3/sqrtExample.py	/^neg_flag = False$/;"	kind:variable	line:9
+nestedConds.py	../Lesson1/nestedConds.py	1;"	kind:file	line:1
+newMonthlyBalance	../Lesson4/Problem1/module.py	/^def newMonthlyBalance(balance, annualInterestRate, monthlyPaymentRate):$/;"	kind:function	line:1
+newMonthlyBalance	../Lesson4/Problem2/module.py	/^def newMonthlyBalance(balance, annualInterestRate, monthlyPayment):$/;"	kind:function	line:1
+newMonthlyBalance	../Lesson4/Problem3/module.py	/^def newMonthlyBalance(balance, annualInterestRate, monthlyPayment):$/;"	kind:function	line:8
+nextIdNum	../Lesson10/MITPerson.py	/^    nextIdNum = 0 # next ID number to assign$/;"	kind:variable	line:9
+nextIdNum	../Lesson10/MITPersonModifiedTrial.py	/^    nextIdNum = 0 # next ID number to assign$/;"	kind:variable	line:9
+nextIdNum	../Lesson10/MITPersonTrial.py	/^    nextIdNum = 0 # next ID number to assign$/;"	kind:variable	line:9
+nextIdNum	../Lesson10/exercise2.py	/^    nextIdNum = 1$/;"	kind:variable	line:8
+normalize	../Lesson8/exercise10.py	/^def normalize(numbers):$/;"	kind:function	line:5
+normalize	../Lesson8/exercise9.py	/^def normalize(numbers):$/;"	kind:function	line:5
+num	../Lesson3/decimalToBinary.py	/^    num = abs(num)$/;"	kind:variable	line:13
+num	../Lesson3/decimalToBinary.py	/^    num = num \/\/ 2$/;"	kind:variable	line:22
+num	../Lesson3/decimalToBinary.py	/^num = 19$/;"	kind:variable	line:8
+num	../Lesson3/decimalToBinaryFraction.py	/^    num = num\/\/2$/;"	kind:variable	line:22
+num	../Lesson3/decimalToBinaryFraction.py	/^num = int(x*(2**p))$/;"	kind:variable	line:15
+num	../Lesson4/square.py	/^num = square(x)$/;"	kind:variable	line:14
+numCons	../Lesson2/exercise8.py	/^numCons = 0$/;"	kind:variable	line:7
+numFibCalls	../Lesson6/fibonacciCounted.py	/^numFibCalls = 0$/;"	kind:variable	line:31
+numFibCalls	../Lesson6/fibonacciCounted.py	/^numFibCalls = 0$/;"	kind:variable	line:37
+numGuesses	../Lesson3/NewtonRaphson.py	/^numGuesses = 0$/;"	kind:variable	line:11
+numGuesses	../Lesson3/sqrtBisection.py	/^numGuesses = 0$/;"	kind:variable	line:10
+numGuesses	../Lesson4/fourthPower.py	/^numGuesses = 0$/;"	kind:variable	line:23
+numVowels	../Lesson2/exercise8.py	/^numVowels = 0$/;"	kind:variable	line:6
+num_guesses	../Lesson3/cubeRootApprox.py	/^num_guesses = 0$/;"	kind:variable	line:12
+num_guesses	../Lesson3/cubeRootApproxBetter.py	/^num_guesses = 0$/;"	kind:variable	line:12
+num_guesses	../Lesson3/cubeRootBisection.py	/^num_guesses = 0$/;"	kind:variable	line:10
+occurrences	../Sandbox/exercise2.py	/^def occurrences(s, str):$/;"	kind:function	line:5
+odd	../Lesson4/exercise2.py	/^def odd(num):$/;"	kind:function	line:1
+oddTuples	../Lesson5/exercise3.py	/^def oddTuples(aTup):$/;"	kind:function	line:5
+oddTuples	../Lesson5/exerciseTuple.py	/^def oddTuples(aTup):$/;"	kind:function	line:1
+origin	../Lesson9/coordinate.py	/^origin = Coordinate(0,0)/;"	kind:variable	line:23
+p	../Lesson3/decimalToBinaryFraction.py	/^p = 0$/;"	kind:variable	line:10
+p	../Lesson9/exercise1.py	/^p = Person(height, weight)$/;"	kind:variable	line:14
+p1	../Lesson10/MITPerson.py	/^p1 = MITPerson('Eric')$/;"	kind:variable	line:26
+p1	../Lesson10/MITPersonTrial.py	/^p1 =  MITPerson('Eric')$/;"	kind:variable	line:53
+p1	../Lesson10/PersonTrial.py	/^p1 = Person('Mark Zuckerberg')$/;"	kind:variable	line:50
+p1	../Lesson10/Student.py	/^p1 = MITPerson('Eric Grimson')$/;"	kind:variable	line:35
+p1	../Lesson10/TrialCode.py	/^p1 = Person('Mark Zuckerberg')$/;"	kind:variable	line:50
+p1	../Lesson9/exercise2.py	/^p1 = Person(1.77, 70)$/;"	kind:variable	line:22
+p2	../Lesson10/MITPerson.py	/^p2 = MITPerson('John Guttag')$/;"	kind:variable	line:27
+p2	../Lesson10/MITPersonTrial.py	/^p2 = MITPerson('John')$/;"	kind:variable	line:54
+p2	../Lesson10/PersonTrial.py	/^p2 = Person('Drew Houston')$/;"	kind:variable	line:52
+p2	../Lesson10/Student.py	/^p2 = MITPerson('John Guttag')$/;"	kind:variable	line:36
+p2	../Lesson10/TrialCode.py	/^p2 = Person('Drew Houston')$/;"	kind:variable	line:52
+p2	../Lesson9/exercise2.py	/^p2 = Person(1.65, 80)$/;"	kind:variable	line:23
+p3	../Lesson10/MITPerson.py	/^p3 = MITPerson('John Smith')$/;"	kind:variable	line:28
+p3	../Lesson10/MITPersonTrial.py	/^p3 = MITPerson('John')$/;"	kind:variable	line:55
+p3	../Lesson10/PersonTrial.py	/^p3 = Person('Bill Gates')$/;"	kind:variable	line:54
+p3	../Lesson10/Student.py	/^p3 = MITPerson('Ana Bell')$/;"	kind:variable	line:37
+p3	../Lesson10/TrialCode.py	/^p3 = Person('Bill Gates')$/;"	kind:variable	line:54
+p4	../Lesson10/MITPerson.py	/^p4 = Person('John')$/;"	kind:variable	line:29
+p4	../Lesson10/MITPersonTrial.py	/^p4 = Person('John')$/;"	kind:variable	line:56
+p4	../Lesson10/PersonTrial.py	/^p4 = Person('Andrew Gates')$/;"	kind:variable	line:56
+p4	../Lesson10/TrialCode.py	/^p4 = Person('Travis Kalanik')$/;"	kind:variable	line:56
+p5	../Lesson10/PersonTrial.py	/^p5 = Person('Steve Wozniak')$/;"	kind:variable	line:57
+p5	../Lesson10/TrialCode.py	/^p5 = Person('Steve Wozniak')$/;"	kind:variable	line:57
+palindrome.py	../Lesson4/palindrome.py	1;"	kind:file	line:1
+paris_clock	../Lesson9/exercise5.py	/^paris_clock = boston_clock$/;"	kind:variable	line:14
+perimeter	../Lesson4/Grader/module.py	/^    def perimeter(n, s):$/;"	kind:function	line:17
+personList	../Lesson10/PersonTrial.py	/^personList = [p1, p2, p3, p4, p5]$/;"	kind:variable	line:60
+personList	../Lesson10/TrialCode.py	/^personList = [p1, p2, p3, p4]$/;"	kind:variable	line:60
+peter	../Lesson9/animalTagged.py	/^peter = Rabbit(2)$/;"	kind:variable	line:58
+playGame	../Lesson8/Problem1/ps4a.py	/^def playGame(wordList):$/;"	kind:function	line:248
+playGame	../Lesson8/Problem1/ps4b.py	/^def playGame(wordList):$/;"	kind:function	line:103
+playGame	../Lesson8/Problem2/ps4a.py	/^def playGame(wordList):$/;"	kind:function	line:251
+playGame	../Lesson8/Problem2/ps4b.py	/^def playGame(wordList):$/;"	kind:function	line:103
+playGame	../Lesson8/Problem3/ps4a.py	/^def playGame(wordList):$/;"	kind:function	line:262
+playGame	../Lesson8/Problem3/ps4b.py	/^def playGame(wordList):$/;"	kind:function	line:103
+playGame	../Lesson8/Problem4/ps4a.py	/^def playGame(wordList):$/;"	kind:function	line:266
+playGame	../Lesson8/Problem4/ps4b.py	/^def playGame(wordList):$/;"	kind:function	line:103
+playGame	../Lesson8/Problem5/ps4a.py	/^def playGame(wordList):$/;"	kind:function	line:271
+playGame	../Lesson8/Problem5/ps4b.py	/^def playGame(wordList):$/;"	kind:function	line:103
+playGame	../Lesson8/Problem6/ps4a.py	/^def playGame(wordList):$/;"	kind:function	line:238
+playGame	../Lesson8/Problem6/ps4b.py	/^def playGame(wordList):$/;"	kind:function	line:103
+playGame	../Lesson8/Problem7/ps4a.py	/^def playGame(wordList):$/;"	kind:function	line:238
+playGame	../Lesson8/Problem7/ps4b.py	/^def playGame(wordList):$/;"	kind:function	line:94
+playHand	../Lesson8/Problem1/ps4a.py	/^def playHand(hand, wordList, n):$/;"	kind:function	line:192
+playHand	../Lesson8/Problem2/ps4a.py	/^def playHand(hand, wordList, n):$/;"	kind:function	line:195
+playHand	../Lesson8/Problem3/ps4a.py	/^def playHand(hand, wordList, n):$/;"	kind:function	line:206
+playHand	../Lesson8/Problem4/ps4a.py	/^def playHand(hand, wordList, n):$/;"	kind:function	line:210
+playHand	../Lesson8/Problem5/ps4a.py	/^def playHand(hand, wordList, n):$/;"	kind:function	line:213
+playHand	../Lesson8/Problem6/ps4a.py	/^def playHand(hand, wordList, n):$/;"	kind:function	line:187
+playHand	../Lesson8/Problem7/ps4a.py	/^def playHand(hand, wordList, n):$/;"	kind:function	line:187
+polySum	../Lesson4/Grader/module.py	/^def polySum(n, s):$/;"	kind:function	line:4
+printExample.py	../Lesson2/printExample.py	1;"	kind:file	line:1
+printMove	../Lesson4/Hanoi.py	/^def printMove(fr, to):$/;"	kind:function	line:8
+printName	../Lesson4/printName.py	/^def printName(firstName, lastName, reverse):$/;"	kind:function	line:8
+printName.py	../Lesson4/printName.py	1;"	kind:file	line:1
+print_time	../Lesson9/exercise3.py	/^    def print_time(self):$/;"	kind:member	line:10
+print_time	../Lesson9/exercise4.py	/^    def print_time(self, time):$/;"	kind:member	line:9
+print_time	../Lesson9/exercise5.py	/^    def print_time(self):$/;"	kind:member	line:10
+problem.py	../Lesson4/Problem1/problem.py	1;"	kind:file	line:1
+problem.py	../Lesson4/Problem2/problem.py	1;"	kind:file	line:1
+problem.py	../Lesson4/Problem3/problem.py	1;"	kind:file	line:1
+problem1.py	../Lesson2/problem1.py	1;"	kind:file	line:1
+problem2.py	../Lesson2/problem2.py	1;"	kind:file	line:1
+problem3.py	../Lesson2/problem3.py	1;"	kind:file	line:1
+ps3_hangman.py	../Lesson6/Problem1/ps3_hangman.py	1;"	kind:file	line:1
+ps3_hangman.py	../Lesson6/Problem2/ps3_hangman.py	1;"	kind:file	line:1
+ps3_hangman.py	../Lesson6/Problem3/ps3_hangman.py	1;"	kind:file	line:1
+ps3_hangman.py	../Lesson6/Problem4/ps3_hangman.py	1;"	kind:file	line:1
+ps4a.py	../Lesson8/Problem1/ps4a.py	1;"	kind:file	line:1
+ps4a.py	../Lesson8/Problem2/ps4a.py	1;"	kind:file	line:1
+ps4a.py	../Lesson8/Problem3/ps4a.py	1;"	kind:file	line:1
+ps4a.py	../Lesson8/Problem4/ps4a.py	1;"	kind:file	line:1
+ps4a.py	../Lesson8/Problem5/ps4a.py	1;"	kind:file	line:1
+ps4a.py	../Lesson8/Problem6/ps4a.py	1;"	kind:file	line:1
+ps4a.py	../Lesson8/Problem7/ps4a.py	1;"	kind:file	line:1
+ps4b.py	../Lesson8/Problem1/ps4b.py	1;"	kind:file	line:1
+ps4b.py	../Lesson8/Problem2/ps4b.py	1;"	kind:file	line:1
+ps4b.py	../Lesson8/Problem3/ps4b.py	1;"	kind:file	line:1
+ps4b.py	../Lesson8/Problem4/ps4b.py	1;"	kind:file	line:1
+ps4b.py	../Lesson8/Problem5/ps4b.py	1;"	kind:file	line:1
+ps4b.py	../Lesson8/Problem6/ps4b.py	1;"	kind:file	line:1
+ps4b.py	../Lesson8/Problem7/ps4b.py	1;"	kind:file	line:1
+ptsMortgage.py	../Lesson10/ptsMortgage.py	1;"	kind:file	line:1
+q1	../Lesson10/Student.py	/^q1 = Person('Bill Gates')$/;"	kind:variable	line:38
+q2	../Lesson10/Student.py	/^q2 = Person('Travis Kalanick')$/;"	kind:variable	line:39
+quotient_and_reminder	../Lesson5/exercise2.py	/^def quotient_and_reminder(x, y):$/;"	kind:function	line:5
+radius	../Lesson1/exercise2.py	/^radius = 15$/;"	kind:variable	line:8
+random	../Lesson6/Problem1/ps3_hangman.py	/^import random$/;"	kind:namespace	line:10
+random	../Lesson6/Problem2/ps3_hangman.py	/^import random$/;"	kind:namespace	line:10
+random	../Lesson6/Problem3/ps3_hangman.py	/^import random$/;"	kind:namespace	line:10
+random	../Lesson6/Problem4/ps3_hangman.py	/^import random$/;"	kind:namespace	line:10
+random	../Lesson8/Problem1/ps4a.py	/^import random$/;"	kind:namespace	line:3
+random	../Lesson8/Problem2/ps4a.py	/^import random$/;"	kind:namespace	line:3
+random	../Lesson8/Problem3/ps4a.py	/^import random$/;"	kind:namespace	line:3
+random	../Lesson8/Problem4/ps4a.py	/^import random$/;"	kind:namespace	line:3
+random	../Lesson8/Problem5/ps4a.py	/^import random$/;"	kind:namespace	line:3
+random	../Lesson8/Problem6/ps4a.py	/^import random$/;"	kind:namespace	line:3
+random	../Lesson8/Problem7/ps4a.py	/^import random$/;"	kind:namespace	line:3
+random	../Lesson9/animal.py	/^import random$/;"	kind:namespace	line:58
+random	../Lesson9/exampleClasses.py	/^import random$/;"	kind:namespace	line:51
+readingData.py	../Lesson8/readingData.py	1;"	kind:file	line:1
+readingDataRev1.py	../Lesson8/readingDataRev1.py	1;"	kind:file	line:1
+readingDataRev2.py	../Lesson8/readingDataRev2.py	1;"	kind:file	line:1
+recurPower	../Lesson4/exercise6.py	/^def recurPower(base, exp):$/;"	kind:function	line:5
+rem	../Lesson7/exercise2.py	/^def rem(x, a):$/;"	kind:function	line:4
+remove	../Lesson9/exercise8.py	/^    def remove(self, e):$/;"	kind:member	line:24
+remove	../Lesson9/integer_set.py	/^    def remove(self, e):$/;"	kind:member	line:20
+remove	../Lesson9/integer_set_nodoc.py	/^    def remove(self, e):$/;"	kind:member	line:9
+result	../Lesson3/decimalToBinary.py	/^    result = '-' + result$/;"	kind:variable	line:24
+result	../Lesson3/decimalToBinary.py	/^    result = '0'$/;"	kind:variable	line:19
+result	../Lesson3/decimalToBinary.py	/^    result = str(num % 2) + result$/;"	kind:variable	line:21
+result	../Lesson3/decimalToBinary.py	/^result = ''$/;"	kind:variable	line:17
+result	../Lesson3/decimalToBinaryFraction.py	/^    result = '0' + result$/;"	kind:variable	line:25
+result	../Lesson3/decimalToBinaryFraction.py	/^    result = '0'$/;"	kind:variable	line:19
+result	../Lesson3/decimalToBinaryFraction.py	/^    result = str(num%2) + result$/;"	kind:variable	line:21
+result	../Lesson3/decimalToBinaryFraction.py	/^result = ''$/;"	kind:variable	line:17
+result	../Lesson3/decimalToBinaryFraction.py	/^result = result[0:-p] + '.' + result[-p:]$/;"	kind:variable	line:27
+result	../Lesson4/Grader/grader.py	/^result = polySum(n, s)$/;"	kind:variable	line:11
+s	../Lesson2/problem1.py	/^s = "string of character"$/;"	kind:variable	line:6
+s	../Lesson2/problem2.py	/^    s = s[s.find(strToFind) + 1 : -1]$/;"	kind:variable	line:10
+s	../Lesson2/problem2.py	/^s = "azcbobobegghakl"$/;"	kind:variable	line:7
+s	../Lesson2/problem3.py	/^s = "abcbcd"$/;"	kind:variable	line:24
+s	../Lesson4/Grader/grader.py	/^s = 10$/;"	kind:variable	line:8
+s	../Lesson5/exercise4.py	/^s = 'abc'$/;"	kind:variable	line:15
+s	../Lesson9/integer_set_nodoc.py	/^s = intSet()$/;"	kind:variable	line:23
+s	../Sandbox/exercise1.py	/^s = 'azcbobobegghakl'$/;"	kind:variable	line:18
+s	../Sandbox/exercise1.py	/^s = s.lower()$/;"	kind:variable	line:19
+s	../Sandbox/exercise2.py	/^s = 'azcbobobegghakl'$/;"	kind:variable	line:23
+s	../Sandbox/exercise2.py	/^s = s.lower()$/;"	kind:variable	line:24
+s	../Sandbox/exercise3.py	/^s = 'azcbobobegghakl'$/;"	kind:variable	line:38
+s	../Sandbox/exercise3.py	/^s = s.lower()$/;"	kind:variable	line:39
+s1	../Lesson10/Student.py	/^s1 = UG('Matt Damon', 2017)$/;"	kind:variable	line:30
+s1	../Lesson10/UG.py	/^s1 = UG('Matt Damon', 2017)$/;"	kind:variable	line:23
+s1	../Lesson10/UGTrial1.py	/^s1 = UG('Matt Damon', 2017)$/;"	kind:variable	line:26
+s1	../Lesson10/UGTrial2.py	/^s1 = UG('Matt Damon', 2017)$/;"	kind:variable	line:31
+s1	../Lesson10/UGTrial2Modified.py	/^s1 = UG('Matt Damon', 2017)$/;"	kind:variable	line:31
+s1	../Lesson9/exercise8.py	/^s1 = intSet()$/;"	kind:variable	line:51
+s2	../Lesson10/Student.py	/^s2 = UG('Ben Affleck', 2017)$/;"	kind:variable	line:31
+s2	../Lesson10/UG.py	/^s2 = UG('Ben Affleck', 2017)$/;"	kind:variable	line:24
+s2	../Lesson10/UGTrial1.py	/^s2 = UG('Ben Affleck', 2017)$/;"	kind:variable	line:27
+s2	../Lesson10/UGTrial2.py	/^s2 = UG('Ben Affleck', 2017)$/;"	kind:variable	line:32
+s2	../Lesson10/UGTrial2Modified.py	/^s2 = UG('Ben Affleck', 2017)$/;"	kind:variable	line:32
+s2	../Lesson9/exercise8.py	/^s2 = intSet()$/;"	kind:variable	line:56
+s3	../Lesson10/Student.py	/^s3 = UG('Arash Ferdowsi', 2018)$/;"	kind:variable	line:32
+s3	../Lesson10/UG.py	/^s3 = UG('Arash Ferdowsi', 2018)$/;"	kind:variable	line:25
+s3	../Lesson10/UGTrial1.py	/^s3 = UG('Lin Manuel Miranda', 2018)$/;"	kind:variable	line:28
+s3	../Lesson10/UGTrial2.py	/^s3 = UG('Lin Manuel Miranda', 2018)$/;"	kind:variable	line:33
+s3	../Lesson10/UGTrial2Modified.py	/^s3 = UG('Lin Manuel Miranda', 2018)$/;"	kind:variable	line:33
+s4	../Lesson10/Student.py	/^s4 = Grad('Drew Houston')$/;"	kind:variable	line:33
+s4	../Lesson10/UG.py	/^s4 = Grad('Drew Houston')$/;"	kind:variable	line:26
+s4	../Lesson10/UGTrial1.py	/^s4 = Grad('Leonardo di Caprio')$/;"	kind:variable	line:29
+s4	../Lesson10/UGTrial2.py	/^s4 = Grad('Leonardo di Caprio')$/;"	kind:variable	line:34
+s4	../Lesson10/UGTrial2Modified.py	/^s4 = Grad('Leonardo di Caprio')$/;"	kind:variable	line:34
+s5	../Lesson10/Student.py	/^s5 = UG('Mark Zuckerberg', 2019)$/;"	kind:variable	line:34
+s5	../Lesson10/UG.py	/^s5 = UG('Mark Zuckerberg', 2019)$/;"	kind:variable	line:27
+s5	../Lesson10/UGTrial2.py	/^s5 = TransferStudent('Robert deNiro')$/;"	kind:variable	line:35
+s5	../Lesson10/UGTrial2Modified.py	/^s5 = TransferStudent('Robert deNiro')$/;"	kind:variable	line:35
+school	../Lesson2/exercise8.py	/^school = 'Massachusetts Institute of Technology'$/;"	kind:variable	line:5
+secretWord	../Lesson6/Problem1/ps3_hangman.py	/^secretWord = 'Apple'.lower()$/;"	kind:variable	line:119
+secretWord	../Lesson6/Problem2/ps3_hangman.py	/^secretWord = 'Apple'.lower()$/;"	kind:variable	line:126
+secretWord	../Lesson6/Problem3/ps3_hangman.py	/^secretWord = 'Apple'.lower()$/;"	kind:variable	line:133
+secretWord	../Lesson6/Problem4/ps3_hangman.py	/^secretWord = chooseWord(wordlist).lower()$/;"	kind:variable	line:170
+setBirthday	../Lesson10/PersonTrial.py	/^    def setBirthday(self,month,day,year):$/;"	kind:member	line:21
+setBirthday	../Lesson10/TrialCode.py	/^    def setBirthday(self,month,day,year):$/;"	kind:member	line:21
+setBirthday	../Lesson10/exercise1.py	/^    def setBirthday(self, month, day, year):$/;"	kind:member	line:20
+set_age	../Lesson9/animal.py	/^    def set_age(self, newage):$/;"	kind:member	line:16
+set_age	../Lesson9/animalTagged.py	/^    def set_age(self, newage):$/;"	kind:member	line:16
+set_age	../Lesson9/exampleClasses.py	/^    def set_age(self, newage):$/;"	kind:member	line:16
+set_age	../Lesson9/exercise10.py	/^    def set_age(self, newAge):$/;"	kind:member	line:13
+set_age	../Lesson9/exercise9.py	/^    def set_age(self, newAge):$/;"	kind:member	line:13
+set_name	../Lesson9/animal.py	/^    def set_name(self, newname=""):$/;"	kind:member	line:18
+set_name	../Lesson9/animalTagged.py	/^    def set_name(self, newname=""):$/;"	kind:member	line:18
+set_name	../Lesson9/exampleClasses.py	/^    def set_name(self, newname=""):$/;"	kind:member	line:18
+set_name	../Lesson9/exercise10.py	/^    def set_name(self, newName = None):$/;"	kind:member	line:15
+set_name	../Lesson9/exercise9.py	/^    def set_name(self, newName = None):$/;"	kind:member	line:15
+she_loves_you	../Lesson6/songs.py	/^she_loves_you = ['she', 'loves', 'you', 'yeah', 'yeah', 'yeah',$/;"	kind:variable	line:18
+silly	../Lesson7/debug_1.py	/^def silly(n):$/;"	kind:function	line:17
+silly	../Lesson7/debug_2.py	/^def silly(n):$/;"	kind:function	line:17
+silly	../Lesson7/debug_3.py	/^def silly(n):$/;"	kind:function	line:17
+silly	../Lesson7/debug_4.py	/^def silly(n):$/;"	kind:function	line:17
+silly	../Lesson7/debug_5.py	/^def silly(n):$/;"	kind:function	line:18
+silly	../Lesson7/debug_6.py	/^def silly(n):$/;"	kind:function	line:19
+silly	../Lesson7/debug_7.py	/^def silly(n):$/;"	kind:function	line:19
+silly	../Lesson7/debug_8.py	/^def silly(n):$/;"	kind:function	line:19
+simple_divide	../Lesson8/exercise8.py	/^def simple_divide(item, denom):$/;"	kind:function	line:10
+six00	../Lesson10/Grades.py	/^six00 = Grades()$/;"	kind:variable	line:76
+songs.py	../Lesson6/songs.py	1;"	kind:file	line:1
+speak	../Lesson10/MITPersonModifiedTrial.py	/^    def speak(self, utterance):$/;"	kind:member	line:24
+speak	../Lesson10/MITPersonTrial.py	/^    def speak(self, utterance):$/;"	kind:member	line:24
+speak	../Lesson10/ProfessorTrial.py	/^    def speak(self, utterance):$/;"	kind:member	line:13
+speak	../Lesson10/UGTrial1.py	/^    def speak(self, utterance):$/;"	kind:member	line:16
+speak	../Lesson10/UGTrial2.py	/^    def speak(self, utterance):$/;"	kind:member	line:19
+speak	../Lesson10/UGTrial2Modified.py	/^    def speak(self, utterance):$/;"	kind:member	line:19
+speak	../Lesson10/exercise2.py	/^    def speak(self, utterance):$/;"	kind:member	line:21
+speak	../Lesson10/exercise3.py	/^    def speak(self, utterance):$/;"	kind:member	line:16
+speak	../Lesson9/animal.py	/^    def speak(self):$/;"	kind:member	line:24
+speak	../Lesson9/animal.py	/^    def speak(self):$/;"	kind:member	line:30
+speak	../Lesson9/animal.py	/^    def speak(self):$/;"	kind:member	line:45
+speak	../Lesson9/animal.py	/^    def speak(self):$/;"	kind:member	line:66
+speak	../Lesson9/animalTagged.py	/^    def speak(self):$/;"	kind:member	line:24
+speak	../Lesson9/exampleClasses.py	/^        def speak(self):$/;"	kind:member	line:24
+speak	../Lesson9/exampleClasses.py	/^    def speak(self):$/;"	kind:member	line:39
+speak	../Lesson9/exampleClasses.py	/^    def speak(self):$/;"	kind:member	line:59
+speak	../Lesson9/exercise10.py	/^    def speak(self):$/;"	kind:member	line:21
+speak	../Lesson9/exercise10.py	/^    def speak(self):$/;"	kind:member	line:27
+speak	../Lesson9/exercise10.py	/^    def speak(self):$/;"	kind:member	line:42
+spell	../Lesson9/exercise11.py	/^spell = Accio()$/;"	kind:variable	line:36
+sqrtBisection.py	../Lesson3/sqrtBisection.py	1;"	kind:file	line:1
+sqrtExample.py	../Lesson3/sqrtExample.py	1;"	kind:file	line:1
+square	../Lesson4/fourthPower.py	/^def square(x):$/;"	kind:function	line:12
+square	../Lesson4/square.py	/^def square(x):$/;"	kind:function	line:5
+square	../Lesson5/exercise1.py	/^def square(a):$/;"	kind:function	line:7
+square	../Lesson5/exercise5.py	/^def square(a):$/;"	kind:function	line:28
+square	../Lesson5/exercise6.py	/^def square(a):$/;"	kind:function	line:15
+square.py	../Lesson4/square.py	1;"	kind:file	line:1
+startingBalance	../Lesson4/Problem2/problem.py	/^startingBalance = balance$/;"	kind:variable	line:12
+startingBalance	../Lesson4/Problem3/problem.py	/^startingBalance = balance$/;"	kind:variable	line:14
+startingNum	../Lesson3/decimalToBinary.py	/^startingNum = num$/;"	kind:variable	line:9
+str	../Sandbox/exercise2.py	/^str ='bob'$/;"	kind:variable	line:25
+str1	../Lesson2/example.py	/^str1 = "hello"$/;"	kind:variable	line:1
+str2	../Lesson2/example.py	/^str2 = ","$/;"	kind:variable	line:2
+str3	../Lesson2/example.py	/^str3 = "world"$/;"	kind:variable	line:3
+str4	../Lesson2/example.py	/^str4 = str1 + str3$/;"	kind:variable	line:5
+strToFind	../Lesson2/problem2.py	/^strToFind = "bob"$/;"	kind:variable	line:6
+string	../Lesson6/Problem3/ps3_hangman.py	/^import string$/;"	kind:namespace	line:11
+string	../Lesson6/Problem4/ps3_hangman.py	/^import string$/;"	kind:namespace	line:11
+string	../Lesson8/Problem1/ps4a.py	/^import string$/;"	kind:namespace	line:4
+string	../Lesson8/Problem2/ps4a.py	/^import string$/;"	kind:namespace	line:4
+string	../Lesson8/Problem3/ps4a.py	/^import string$/;"	kind:namespace	line:4
+string	../Lesson8/Problem4/ps4a.py	/^import string$/;"	kind:namespace	line:4
+string	../Lesson8/Problem5/ps4a.py	/^import string$/;"	kind:namespace	line:4
+string	../Lesson8/Problem6/ps4a.py	/^import string$/;"	kind:namespace	line:4
+string	../Lesson8/Problem7/ps4a.py	/^import string$/;"	kind:namespace	line:4
+studentList	../Lesson10/Student.py	/^studentList = [s1, s2, s3, s5, s4]$/;"	kind:variable	line:41
+studentList	../Lesson10/UG.py	/^studentList = [s1, s2, s3, s5, s4]/;"	kind:variable	line:29
+studentList	../Lesson10/UGTrial1.py	/^studentList = [s1, s2, s3, s4]$/;"	kind:variable	line:32
+studentList	../Lesson10/UGTrial2.py	/^studentList = [s1, s2, s3, s4, s5]$/;"	kind:variable	line:38
+studentList	../Lesson10/UGTrial2Modified.py	/^studentList = [s1, s2, s3, s4, s5]$/;"	kind:variable	line:38
+studySpell	../Lesson9/exercise11.py	/^def studySpell(spell):$/;"	kind:function	line:33
+sum	../Lesson2/exercise5.py	/^sum = 0$/;"	kind:variable	line:5
+tag	../Lesson9/animalTagged.py	/^    tag = 1$/;"	kind:variable	line:31
+tag	../Lesson9/exampleClasses.py	/^    tag = 1$/;"	kind:variable	line:73
+testGradesData.py	../Lesson8/testGradesData.py	1;"	kind:file	line:1
+testList	../Lesson5/exercise5.py	/^testList = [1, -4, 8, -9]$/;"	kind:variable	line:36
+test_getWordScore	../Lesson8/Problem1/test_ps4a.py	/^def test_getWordScore():$/;"	kind:function	line:9
+test_getWordScore	../Lesson8/Problem2/test_ps4a.py	/^def test_getWordScore():$/;"	kind:function	line:9
+test_getWordScore	../Lesson8/Problem3/test_ps4a.py	/^def test_getWordScore():$/;"	kind:function	line:9
+test_getWordScore	../Lesson8/Problem4/test_ps4a.py	/^def test_getWordScore():$/;"	kind:function	line:9
+test_getWordScore	../Lesson8/Problem5/test_ps4a.py	/^def test_getWordScore():$/;"	kind:function	line:9
+test_getWordScore	../Lesson8/Problem6/test_ps4a.py	/^def test_getWordScore():$/;"	kind:function	line:9
+test_getWordScore	../Lesson8/Problem7/test_ps4a.py	/^def test_getWordScore():$/;"	kind:function	line:9
+test_grades	../Lesson8/getStats.py	/^test_grades = [[['peter', 'parker'], [10.0, 5.0, 85.0]], $/;"	kind:variable	line:18
+test_isValidWord	../Lesson8/Problem1/test_ps4a.py	/^def test_isValidWord(wordList):$/;"	kind:function	line:101
+test_isValidWord	../Lesson8/Problem2/test_ps4a.py	/^def test_isValidWord(wordList):$/;"	kind:function	line:101
+test_isValidWord	../Lesson8/Problem3/test_ps4a.py	/^def test_isValidWord(wordList):$/;"	kind:function	line:101
+test_isValidWord	../Lesson8/Problem4/test_ps4a.py	/^def test_isValidWord(wordList):$/;"	kind:function	line:101
+test_isValidWord	../Lesson8/Problem5/test_ps4a.py	/^def test_isValidWord(wordList):$/;"	kind:function	line:101
+test_isValidWord	../Lesson8/Problem6/test_ps4a.py	/^def test_isValidWord(wordList):$/;"	kind:function	line:101
+test_isValidWord	../Lesson8/Problem7/test_ps4a.py	/^def test_isValidWord(wordList):$/;"	kind:function	line:101
+test_ps4a.py	../Lesson8/Problem1/test_ps4a.py	1;"	kind:file	line:1
+test_ps4a.py	../Lesson8/Problem2/test_ps4a.py	1;"	kind:file	line:1
+test_ps4a.py	../Lesson8/Problem3/test_ps4a.py	1;"	kind:file	line:1
+test_ps4a.py	../Lesson8/Problem4/test_ps4a.py	1;"	kind:file	line:1
+test_ps4a.py	../Lesson8/Problem5/test_ps4a.py	1;"	kind:file	line:1
+test_ps4a.py	../Lesson8/Problem6/test_ps4a.py	1;"	kind:file	line:1
+test_ps4a.py	../Lesson8/Problem7/test_ps4a.py	1;"	kind:file	line:1
+test_updateHand	../Lesson8/Problem1/test_ps4a.py	/^def test_updateHand():$/;"	kind:function	line:28
+test_updateHand	../Lesson8/Problem2/test_ps4a.py	/^def test_updateHand():$/;"	kind:function	line:28
+test_updateHand	../Lesson8/Problem3/test_ps4a.py	/^def test_updateHand():$/;"	kind:function	line:28
+test_updateHand	../Lesson8/Problem4/test_ps4a.py	/^def test_updateHand():$/;"	kind:function	line:28
+test_updateHand	../Lesson8/Problem5/test_ps4a.py	/^def test_updateHand():$/;"	kind:function	line:28
+test_updateHand	../Lesson8/Problem6/test_ps4a.py	/^def test_updateHand():$/;"	kind:function	line:28
+test_updateHand	../Lesson8/Problem7/test_ps4a.py	/^def test_updateHand():$/;"	kind:function	line:28
+time	../Lesson8/Problem1/ps4b.py	/^import time$/;"	kind:namespace	line:2
+time	../Lesson8/Problem2/ps4b.py	/^import time$/;"	kind:namespace	line:2
+time	../Lesson8/Problem3/ps4b.py	/^import time$/;"	kind:namespace	line:2
+time	../Lesson8/Problem4/ps4b.py	/^import time$/;"	kind:namespace	line:2
+time	../Lesson8/Problem5/ps4b.py	/^import time$/;"	kind:namespace	line:2
+time	../Lesson8/Problem6/ps4b.py	/^import time$/;"	kind:namespace	line:2
+time	../Lesson8/Problem7/ps4b.py	/^import time$/;"	kind:namespace	line:2
+times	../Lesson3/cheer.py	/^times = int(input("Enthusiasm level (1-10): "))$/;"	kind:variable	line:10
+toChars	../Lesson4/exercise1.py	/^    def toChars(aStr):$/;"	kind:function	line:9
+toChars	../Lesson4/palindrome.py	/^    def toChars(s):$/;"	kind:function	line:10
+toLower	../Lesson6/exercise1.py	/^    def toLower(x):$/;"	kind:function	line:11
+total	../Lesson2/exercise4.py	/^total = 0$/;"	kind:variable	line:5
+ug1	../Lesson10/Grades.py	/^ug1 = UG('Matt Damon', 2018)$/;"	kind:variable	line:69
+ug2	../Lesson10/Grades.py	/^ug2 = UG('Ben Affleck', 2019)$/;"	kind:variable	line:70
+ug3	../Lesson10/Grades.py	/^ug3 = UG('Drew Houston', 2017)$/;"	kind:variable	line:71
+ug4	../Lesson10/Grades.py	/^ug4 = UG('Mark Zuckerberg', 2017)$/;"	kind:variable	line:72
+universities.py	../Lesson5/universities.py	1;"	kind:file	line:1
+unpaidBalanceEachMonth	../Lesson4/Problem1/module.py	/^    def unpaidBalanceEachMonth(monthlyUnpaidBalance, annualInterestRate):$/;"	kind:function	line:28
+unpaidBalanceEachMonth	../Lesson4/Problem2/module.py	/^    def unpaidBalanceEachMonth(monthlyUnpaidBalance, annualInterestRate):$/;"	kind:function	line:21
+unpaidBalanceEachMonth	../Lesson4/Problem3/module.py	/^    def unpaidBalanceEachMonth(monthlyUnpaidBalance, annualInterestRate):$/;"	kind:function	line:28
+updateHand	../Lesson8/Problem1/ps4a.py	/^def updateHand(hand, word):$/;"	kind:function	line:140
+updateHand	../Lesson8/Problem2/ps4a.py	/^def updateHand(hand, word):$/;"	kind:function	line:140
+updateHand	../Lesson8/Problem3/ps4a.py	/^def updateHand(hand, word):$/;"	kind:function	line:140
+updateHand	../Lesson8/Problem4/ps4a.py	/^def updateHand(hand, word):$/;"	kind:function	line:140
+updateHand	../Lesson8/Problem5/ps4a.py	/^def updateHand(hand, word):$/;"	kind:function	line:143
+updateHand	../Lesson8/Problem6/ps4a.py	/^def updateHand(hand, word):$/;"	kind:function	line:125
+updateHand	../Lesson8/Problem7/ps4a.py	/^def updateHand(hand, word):$/;"	kind:function	line:125
+visits	../Lesson6/exampleDictionary.py	/^visits = {"Los Angeles":2016, "San Diego":2016, "San Francisco":2016, "Toronto":2018}$/;"	kind:variable	line:12
+vowels	../Lesson2/problem1.py	/^vowels = 0$/;"	kind:variable	line:5
+w2	../Lesson9/exercise6.py	/^w2 = Wild(X, Y)$/;"	kind:variable	line:26
+weight	../Lesson9/exercise1.py	/^weight = 80$/;"	kind:variable	line:12
+weight_difference	../Lesson9/exercise2.py	/^    def weight_difference(self, other):$/;"	kind:member	line:15
+word	../Lesson3/cheer.py	/^word = input("I will cheer for you! Enter a word: ")$/;"	kind:variable	line:9
+wordList	../Lesson8/Problem1/ps4a.py	/^    wordList = loadWords()$/;"	kind:variable	line:273
+wordList	../Lesson8/Problem1/test_ps4a.py	/^wordList = loadWords()$/;"	kind:variable	line:189
+wordList	../Lesson8/Problem2/ps4a.py	/^    wordList = loadWords()$/;"	kind:variable	line:283
+wordList	../Lesson8/Problem2/test_ps4a.py	/^wordList = loadWords()$/;"	kind:variable	line:189
+wordList	../Lesson8/Problem3/ps4a.py	/^    wordList = loadWords()$/;"	kind:variable	line:296
+wordList	../Lesson8/Problem3/test_ps4a.py	/^wordList = loadWords()$/;"	kind:variable	line:189
+wordList	../Lesson8/Problem4/ps4a.py	/^    wordList = loadWords()$/;"	kind:variable	line:298
+wordList	../Lesson8/Problem4/test_ps4a.py	/^wordList = loadWords()$/;"	kind:variable	line:189
+wordList	../Lesson8/Problem5/ps4a.py	/^    wordList = loadWords()$/;"	kind:variable	line:305
+wordList	../Lesson8/Problem5/test_ps4a.py	/^wordList = loadWords()$/;"	kind:variable	line:189
+wordList	../Lesson8/Problem6/ps4a.py	/^    wordList = loadWords()$/;"	kind:variable	line:278
+wordList	../Lesson8/Problem6/test_ps4a.py	/^wordList = loadWords()$/;"	kind:variable	line:189
+wordList	../Lesson8/Problem7/ps4a.py	/^    wordList = loadWords()$/;"	kind:variable	line:278
+wordList	../Lesson8/Problem7/ps4b.py	/^    wordList = loadWords()$/;"	kind:variable	line:170
+wordList	../Lesson8/Problem7/test_ps4a.py	/^wordList = loadWords()$/;"	kind:variable	line:189
+wordlist	../Lesson6/Problem1/ps3_hangman.py	/^wordlist = loadWords()$/;"	kind:variable	line:44
+wordlist	../Lesson6/Problem2/ps3_hangman.py	/^wordlist = loadWords()$/;"	kind:variable	line:44
+wordlist	../Lesson6/Problem3/ps3_hangman.py	/^wordlist = loadWords()$/;"	kind:variable	line:45
+wordlist	../Lesson6/Problem4/ps3_hangman.py	/^wordlist = loadWords()$/;"	kind:variable	line:45
+words_often	../Lesson6/songs.py	/^def words_often(freqs, minTimes):$/;"	kind:function	line:81
+x	../Lesson1/evenOdd.py	/^x = int(input('Enter an integer: '))$/;"	kind:variable	line:8
+x	../Lesson1/foo.py	/^x = 6$/;"	kind:variable	line:8
+x	../Lesson1/nestedConds.py	/^x = int(input("Type a number: "))$/;"	kind:variable	line:8
+x	../Lesson2/cubeRoot.py	/^x = int(input('Enter an integer: '))$/;"	kind:variable	line:8
+x	../Lesson2/iterativeMul.py	/^x = 5$/;"	kind:variable	line:8
+x	../Lesson2/printExample.py	/^x = 1$/;"	kind:variable	line:9
+x	../Lesson3/decimalToBinaryFraction.py	/^x = float(input('Enter a decimal number between 0 and 1: '))$/;"	kind:variable	line:8
+x	../Lesson3/exercise1.py	/^    x = round( (high + low) \/ 2 )$/;"	kind:variable	line:13
+x	../Lesson3/sqrtBisection.py	/^x = 25$/;"	kind:variable	line:8
+x	../Lesson3/sqrtExample.py	/^x = int(input("Enter an integer: "))$/;"	kind:variable	line:10
+x	../Lesson4/evalQuadratic.py	/^x = 2$/;"	kind:variable	line:15
+x	../Lesson4/exercise2.py	/^x = int(input("Insert a number: "))$/;"	kind:variable	line:9
+x	../Lesson4/exercise4.py	/^x = 4$/;"	kind:variable	line:16
+x	../Lesson4/fExample.py	/^x = 3$/;"	kind:variable	line:12
+x	../Lesson4/fib.py	/^x = 5$/;"	kind:variable	line:16
+x	../Lesson4/fourthPower.py	/^x = int(input("Enter a number: "))$/;"	kind:variable	line:24
+x	../Lesson4/gAndHExample.py	/^x = 3$/;"	kind:variable	line:16
+x	../Lesson4/square.py	/^x = int(input("Insert a number:"))$/;"	kind:variable	line:12
+x	../Lesson9/exercise12.py	/^    def x(self):$/;"	kind:member	line:8
+x_str	../Lesson2/printExample.py	/^x_str = str(x)$/;"	kind:variable	line:11
+y	../Lesson3/NewtonRaphson.py	/^y = 54.0$/;"	kind:variable	line:9
+y	../Lesson9/exercise12.py	/^    def y(self):$/;"	kind:member	line:10
+y	../Lesson9/exercise12.py	/^    def y(self):$/;"	kind:member	line:20
+y	../Lesson9/exercise12.py	/^    def y(self):$/;"	kind:member	line:29
+year	../Lesson6/exampleDictionary.py	/^def year(city):$/;"	kind:function	line:5
+z	../Lesson4/fExample.py	/^z = f( x )$/;"	kind:variable	line:13
+z	../Lesson4/gAndHExample.py	/^z = g(x)$/;"	kind:variable	line:17
+z	../Lesson9/exercise12.py	/^    def z(self):$/;"	kind:member	line:12
+z	../Lesson9/exercise12.py	/^    def z(self):$/;"	kind:member	line:22
+z	../Lesson9/exercise12.py	/^    def z(self):$/;"	kind:member	line:31
+z	../Lesson9/exercise12.py	/^    def z(self):$/;"	kind:member	line:39

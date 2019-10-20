@@ -19,3 +19,4 @@ def bubble_sort(L):
 
 
 test = [1, 5, 3, 8, 4, 2, 9, 6]
+print(bubble_sort(test))
